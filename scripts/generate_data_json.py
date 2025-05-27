@@ -16,8 +16,8 @@ included_sheets = [
     "Airalo",
     "Yesim",
     "Mobimatter",
-    "Global YO",
-    "Maya Mobile",
+    "GlobalYO",
+    "MayaMobile",
     "Holafly",
     "eSIM4Travel",
     "Jetpac",
@@ -25,6 +25,7 @@ included_sheets = [
     "Saily",
     "Nomad",
     "Firsty",
+    "aloSIM",
     "Roamify"
 ]
 
