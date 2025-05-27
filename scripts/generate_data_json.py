@@ -36,7 +36,8 @@ column_map = {
     "Provider": "provider",
     "Affiliate Link": "affiliate",
     "Data Range": "dataRange",
-    "Validity Range": "validityRange"
+    "Validity Range": "validityRange",
+    "Price (USD)": "price_usd"
 }
 
 combined_data = []
