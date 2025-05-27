@@ -11,22 +11,33 @@ client = gspread.authorize(creds)
 
 sheet = client.open_by_key(sheet_id)
 
-# Zde si ručně udržuješ seznam povolených listů
+# Ručně definovaný seznam listů, které se mají tahat
 included_sheets = [
     "Airalo",
     "Yesim",
     "Mobimatter",
     "GlobalYO",
-    "MayaMobile",
+    "Maya Mobile",
+    "Holafly",
     "eSIM4Travel",
     "Jetpac",
     "Airhub",
     "Saily",
     "Nomad",
     "Firsty",
-    "aloSIM",
     "Roamify"
 ]
+
+# Mapa přejmenování sloupců
+column_map = {
+    "Country": "country",
+    "Data (GB)": "data",
+    "Validity (days)": "validity",
+    "Provider": "provider",
+    "Affiliate Link": "affiliate",
+    "Data Range": "dataRange",
+    "Validity Range": "validityRange"
+}
 
 combined_data = []
 
@@ -35,7 +46,14 @@ for title in included_sheets:
     rows = ws.get_all_values()
     headers = rows[0]
     for row in rows[1:]:
-        combined_data.append(dict(zip(headers, row)))
+        entry = {}
+        for i, value in enumerate(row):
+            col_name = headers[i]
+            key = column_map.get(col_name)
+            if key:
+                entry[key] = value
+        if entry:
+            combined_data.append(entry)
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(combined_data, f, ensure_ascii=False, indent=2)
