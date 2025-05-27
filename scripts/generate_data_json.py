@@ -18,7 +18,6 @@ included_sheets = [
     "Mobimatter",
     "GlobalYO",
     "MayaMobile",
-    "Holafly",
     "eSIM4Travel",
     "Jetpac",
     "Airhub",
