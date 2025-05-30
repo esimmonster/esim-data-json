@@ -25,6 +25,7 @@ included_sheets = [
     "Saily",
     "Nomad",
     "Firsty",
+    "eTravelSim",
     "Roamify"
 ]
 
