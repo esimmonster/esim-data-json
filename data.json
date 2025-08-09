@@ -10623,7 +10623,7 @@
     "country": "Palestinská území",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$7.50",
+    "price_usd": "$5.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -10633,7 +10633,7 @@
     "country": "Palestinská území",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$14.00",
+    "price_usd": "$8.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -10643,7 +10643,7 @@
     "country": "Palestinská území",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$19.50",
+    "price_usd": "$10.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -10653,11 +10653,41 @@
     "country": "Palestinská území",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$30.00",
+    "price_usd": "$16.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Palestinská území",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$25.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Palestinská území",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Palestinská území",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$45.50",
+    "provider": "Airalo",
+    "validityRange": "8–14",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Svatý Vincenc a Grenadiny",
@@ -15497,16 +15527,6 @@
     "provider": "Yesim",
     "validityRange": "1–7",
     "affiliate": "https://yesim.app/country/singapore/?partner_id=517",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€62.00",
-    "provider": "Yesim",
-    "validityRange": "15–30",
-    "affiliate": "https://yesim.app/country/tanzania/?partner_id=517",
     "dataRange": "Neomezená"
   },
   {
@@ -22530,16 +22550,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Tanzanie",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€83.00",
-    "provider": "Yesim",
-    "validityRange": "15–30",
-    "affiliate": "https://yesim.app/country/tanzania/?partner_id=517",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Seychely",
     "data": "10 GB",
     "validity": "30",
@@ -25140,6 +25150,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Spojené království",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$51.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-50-gb-450-minutes-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Spojené státy",
     "data": "100 GB",
     "validity": "30",
@@ -26557,6 +26577,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-vietnam-plus-20-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-20-gb-300-minutes-esim#esimmonster",
     "dataRange": "11–20"
   },
   {
@@ -30480,6 +30510,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Spojené království",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-10-gb-200-minutes-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Indonésie",
     "data": "50 GB",
     "validity": "90",
@@ -32118,6 +32158,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-pakistan-10-gb-esim#esimmonster",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené království",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-5-gb-100-minutes-esim#esimmonster",
+    "dataRange": "2–5"
   },
   {
     "country": "Japonsko",
@@ -45920,6 +45970,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené království",
+    "data": "2 GB",
+    "validity": "14",
+    "price_usd": "$6.49",
+    "provider": "Mobimatter",
+    "validityRange": "8–14",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-2-gb-40-minutes-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Peru",
     "data": "3 GB",
     "validity": "30",
@@ -55388,6 +55448,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-middle-east-2-gb-esim#esimmonster",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.49",
+    "provider": "Mobimatter",
+    "validityRange": "1–7",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-1-gb-20-minutes-esim#esimmonster",
+    "dataRange": "≤1"
   },
   {
     "country": "Maledivy",
@@ -85880,7 +85950,7 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Vietnam",
+    "country": "Hongkong – ZAO Číny",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$0.00",
@@ -86130,7 +86200,7 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Slovinsko",
+    "country": "Vietnam",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$0.00",
@@ -86140,7 +86210,7 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Hongkong – ZAO Číny",
+    "country": "Slovinsko",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$0.00",
@@ -224250,166 +224320,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Čína",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$4.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$4.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Hongkong – ZAO Číny",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$4.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Tchaj-wan",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$4.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Čína",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Hongkong – ZAO Číny",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Tchaj-wan",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Čína",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Hongkong – ZAO Číny",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Tchaj-wan",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Čína",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Hongkong – ZAO Číny",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Tchaj-wan",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Anguilla",
     "data": "1 GB",
     "validity": "4",
@@ -225521,123 +225431,123 @@
   },
   {
     "country": "Čína",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$4.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
+    "dataRange": "≤1"
   },
   {
     "country": "Macao – ZAO Číny",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$4.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
+    "dataRange": "≤1"
   },
   {
     "country": "Hongkong – ZAO Číny",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$4.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
+    "dataRange": "≤1"
   },
   {
     "country": "Tchaj-wan",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$4.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
+    "dataRange": "≤1"
   },
   {
     "country": "Čína",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.50",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Macao – ZAO Číny",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.50",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Hongkong – ZAO Číny",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.50",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Tchaj-wan",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.50",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Čína",
-    "data": "40 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$76.00",
+    "price_usd": "$10.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Macao – ZAO Číny",
-    "data": "40 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$76.00",
+    "price_usd": "$10.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Hongkong – ZAO Číny",
-    "data": "40 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$76.00",
+    "price_usd": "$10.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Tchaj-wan",
-    "data": "40 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$76.00",
+    "price_usd": "$10.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
+    "dataRange": "2–5"
   },
   {
     "country": "Alžírsko",
@@ -225720,26 +225630,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Jihoafrická republika",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$4.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Mauricius",
     "data": "1 GB",
     "validity": "4",
@@ -225796,6 +225686,166 @@
     "price_usd": "$35.00",
     "provider": "Jetpac",
     "validityRange": "31–90",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Čína",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Čína",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Čína",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Čína",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
   },
@@ -226481,6 +226531,26 @@
   },
   {
     "country": "Jihoafrická republika",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$4.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jihoafrická republika",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jihoafrická republika",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$14.00",
@@ -226578,36 +226648,6 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Vietnam",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Vietnam",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$18.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vietnam",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$40.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
   },
   {
     "country": "Jižní Korea",
@@ -226981,16 +227021,6 @@
   },
   {
     "country": "Vietnam",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Vietnam",
     "data": "-1 GB",
     "validity": "7",
     "price_usd": "$21.99",
@@ -227011,6 +227041,36 @@
   },
   {
     "country": "Vietnam",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Vietnam",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$18.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vietnam",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$40.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
     "data": "30 GB",
     "validity": "30",
     "price_usd": "$29.99",
@@ -227028,6 +227088,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Vietnam",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
   },
   {
     "country": "Thajsko",
@@ -227858,16 +227928,6 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "50+"
-  },
-  {
-    "country": "",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$32.00",
-    "provider": "Airhub",
-    "validityRange": "15–30",
-    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
-    "dataRange": "21–50"
   },
   {
     "country": "Kazachstán",
@@ -231940,6 +232000,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Kolumbie",
+    "data": "12 GB",
+    "validity": "30",
+    "price_usd": "$46.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Dominikánská republika",
     "data": "12 GB",
     "validity": "30",
@@ -231948,6 +232018,26 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Kolumbie",
+    "data": "4 GB",
+    "validity": "30",
+    "price_usd": "$16.50",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kolumbie",
+    "data": "7 GB",
+    "validity": "30",
+    "price_usd": "$24.50",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "6–10"
   },
   {
     "country": "Dominikánská republika",
@@ -234970,6 +235060,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Rakousko",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$27.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Polsko",
     "data": "50 GB",
     "validity": "30",
@@ -236506,16 +236606,6 @@
     "price_usd": "$21.00",
     "provider": "Airhub",
     "validityRange": "15–30",
-    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Itálie",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "$26.90",
-    "provider": "Airhub",
-    "validityRange": "8–14",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "Neomezená"
   },
@@ -249180,16 +249270,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Libérie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$27.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/liberia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Laos",
     "data": "15 GB",
     "validity": "30",
@@ -249198,6 +249278,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/laos-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Libérie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$27.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/liberia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Mosambik",
@@ -250900,16 +250990,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Finsko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/finland-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Estonsko",
     "data": "10 GB",
     "validity": "30",
@@ -250918,6 +250998,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/estonia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Finsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/finland-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Antigua a Barbuda",
@@ -252068,16 +252158,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/ukraine-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Nová Kaledonie",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$45.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/new-caledonia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Laos",
@@ -254250,16 +254330,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Nová Kaledonie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$19.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/new-caledonia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Ázerbájdžán",
     "data": "1 GB",
     "validity": "7",
@@ -254707,16 +254777,6 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/latvia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nová Kaledonie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$65.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/new-caledonia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -296098,6 +296158,1566 @@
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/usa-esim-zf?variant=51437377224885",
     "dataRange": "Neomezená"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483396898997",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$5.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483396931765",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$6.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483396964533",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$12.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483396997301",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483397030069",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483397062837",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483397095605",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483397128373",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/hong-kong-esim-zf?variant=51483397161141",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Indonésie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410563253",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Indonésie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$8.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410596021",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Indonésie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$13.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410628789",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Indonésie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410661557",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Indonésie",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410694325",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Indonésie",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410727093",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Indonésie",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410759861",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Indonésie",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$30.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410792629",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Indonésie",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410825397",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Indonésie",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/indonesia-esim-zf?variant=51483410858165",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Japonsko",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406303413",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Japonsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406336181",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Japonsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406368949",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Japonsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406401717",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406434485",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Japonsko",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406467253",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Japonsko",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406500021",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Japonsko",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/japan-esim-copy?variant=51483406532789",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Malajsie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401552053",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Malajsie",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401584821",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401617589",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401650357",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Malajsie",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$30.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401683125",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Malajsie",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$40.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401715893",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Malajsie",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401748661",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Malajsie",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401781429",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Malajsie",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/malaysia-esim-zf?variant=51483401814197",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424817333",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424850101",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$8.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424882869",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$14.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424915637",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$27.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424948405",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483424981173",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$16.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483425013941",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483425046709",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483425079477",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/south-korea-esim-zf?variant=51483425112245",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395588277",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395621045",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395653813",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395686581",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395719349",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$44.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395752117",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$16.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395784885",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395817653",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395850421",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/taiwan-esim-zf?variant=51483395883189",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "50 GB",
+    "validity": "10",
+    "price_usd": "$8.49",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/thailand-esim-zf?variant=51483404435637",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/thailand-esim-zf?variant=51483404468405",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "80 GB",
+    "validity": "10",
+    "price_usd": "$15.99",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/thailand-esim-zf?variant=51483404501173",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Evropa",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426586805",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Evropa",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426619573",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Evropa",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$11.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426652341",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Evropa",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$6.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426685109",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$8.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426717877",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$13.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426750645",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$7.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426783413",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426816181",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$14.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426848949",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$8.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426881717",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426914485",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426947253",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Evropa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483426980021",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Evropa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427012789",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Evropa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427045557",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Evropa",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$25.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427078325",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$27.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427111093",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427143861",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427176629",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$51.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427209397",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$60.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427242165",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427274933",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427307701",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$24.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427340469",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427373237",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$21.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427406005",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$26.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427438773",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$24.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427471541",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$26.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427504309",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427537077",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "14",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427569845",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "14",
+    "price_usd": "$41.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427602613",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "14",
+    "price_usd": "$46.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427635381",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$65.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427668149",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$67.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427700917",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$72.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-europe-zf?variant=51483427733685",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Filipíny",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390804149",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Filipíny",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390836917",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Filipíny",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390869685",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Filipíny",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390902453",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Filipíny",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390935221",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Filipíny",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-philippines-zf?variant=51483390967989",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$4.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422064821",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené království",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422097589",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené království",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$11.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422130357",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené království",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$6.75",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422163125",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$8.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422195893",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422228661",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.19",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422261429",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422294197",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$14.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422326965",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené království",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$11.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422359733",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené království",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422392501",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené království",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422425269",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422458037",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422490805",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422523573",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422556341",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$30.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422589109",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422621877",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422654645",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$50.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422687413",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$55.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422720181",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422752949",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$24.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422785717",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$29.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422818485",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422851253",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$44.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422884021",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422916789",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422949557",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$64.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483422982325",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$69.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423015093",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$39.99",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423047861",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$44.99",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423080629",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$49.99",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423113397",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "20",
+    "price_usd": "$79.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423146165",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "20",
+    "price_usd": "$84.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423178933",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "20",
+    "price_usd": "$89.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423211701",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$119.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423244469",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$124.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423277237",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené království",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$129.99",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-united-kingdom-uk-zf?variant=51483423310005",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$5.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069218997",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069251765",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$16.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069284533",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$23.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069317301",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "25 GB",
+    "validity": "30",
+    "price_usd": "$29.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069350069",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$53.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069382837",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$20.50",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069415605",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$28.50",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069448373",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$41.50",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069481141",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$63.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/usa-esim-zf-1?variant=51483069513909",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Vietnam",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483397980341",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Vietnam",
+    "data": "4 GB",
+    "validity": "10",
+    "price_usd": "$5.50",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483398013109",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Vietnam",
+    "data": "6 GB",
+    "validity": "10",
+    "price_usd": "$6.50",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483398045877",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vietnam",
+    "data": "10 GB",
+    "validity": "10",
+    "price_usd": "$10.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483398078645",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vietnam",
+    "data": "20 GB",
+    "validity": "10",
+    "price_usd": "$12.00",
+    "provider": "eTravelSim",
+    "validityRange": "8–14",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483398111413",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
+    "data": "100 GB",
+    "validity": "20",
+    "price_usd": "$15.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/vietnam-esim-zf?variant=51483398144181",
+    "dataRange": "50+"
   },
   {
     "country": "Afghánistán",
