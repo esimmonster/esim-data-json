@@ -1600,6 +1600,66 @@
     "dataRange": "Neomezená"
   },
   {
+    "country": "Kanada",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kanada",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$8.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanada",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanada",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$18.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanada",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$23.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kanada",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$37.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Montserrat",
     "data": "1 GB",
     "validity": "7",
@@ -11030,76 +11090,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Kanada",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$6.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kanada",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$11.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanada",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$15.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanada",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$18.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanada",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Kanada",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$49.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Kanada",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "$42.00",
-    "provider": "Airalo",
-    "validityRange": "8–14",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Uganda",
     "data": "1 GB",
     "validity": "7",
@@ -11153,7 +11143,7 @@
     "country": "Spojené království",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$4.50",
+    "price_usd": "$5.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11163,7 +11153,7 @@
     "country": "Spojené království",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$7.00",
+    "price_usd": "$8.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11173,7 +11163,7 @@
     "country": "Spojené království",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$9.00",
+    "price_usd": "$11.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11183,7 +11173,7 @@
     "country": "Spojené království",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$13.00",
+    "price_usd": "$16.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11193,7 +11183,7 @@
     "country": "Spojené království",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$19.50",
+    "price_usd": "$27.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11203,7 +11193,7 @@
     "country": "Spojené království",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$32.00",
+    "price_usd": "$49.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -24870,6 +24860,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Spojené království",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$47.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-50-gb-450-minutes-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Turecko",
     "data": "20 GB",
     "validity": "30",
@@ -25150,26 +25150,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Spojené království",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-50-gb-450-minutes-esim#esimmonster",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "100 GB",
-    "validity": "30",
-    "price_usd": "$79.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-100-gb-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
     "country": "Moldavsko",
     "data": "10 GB",
     "validity": "30",
@@ -25280,6 +25260,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Francie",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$36.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-france-50-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Indonésie",
     "data": "30 GB",
     "validity": "30",
@@ -25348,6 +25338,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/annatel-israel-20-gb-esim#esimmonster",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Francie",
+    "data": "35 GB",
+    "validity": "30",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-france-35-gb-esim#esimmonster",
+    "dataRange": "21–50"
   },
   {
     "country": "Rumunsko",
@@ -25990,6 +25990,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-20-gb-300-minutes-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Albánie",
     "data": "100 GB",
     "validity": "10",
@@ -26580,14 +26590,14 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Spojené království",
-    "data": "20 GB",
+    "country": "Spojené státy",
+    "data": "100 GB",
     "validity": "30",
-    "price_usd": "$24.99",
+    "price_usd": "$79.99",
     "provider": "Mobimatter",
     "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-20-gb-300-minutes-esim#esimmonster",
-    "dataRange": "11–20"
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-100-gb-esim#esimmonster",
+    "dataRange": "50+"
   },
   {
     "country": "Albánie",
@@ -30040,6 +30050,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Spojené království",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$14.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-10-gb-200-minutes-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Albánie",
     "data": "15 GB",
     "validity": "30",
@@ -30507,16 +30527,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-armenia-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Spojené království",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$15.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-10-gb-200-minutes-esim#esimmonster",
     "dataRange": "6–10"
   },
   {
@@ -37393,7 +37403,7 @@
     "country": "Egypt",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$36.99",
+    "price_usd": "$25.89",
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-egypt-20-gb-esim#esimmonster",
@@ -45490,6 +45500,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené království",
+    "data": "2 GB",
+    "validity": "14",
+    "price_usd": "$5.99",
+    "provider": "Mobimatter",
+    "validityRange": "8–14",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-2-gb-40-minutes-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Albánie",
     "data": "8 GB",
     "validity": "15",
@@ -45967,16 +45987,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/nextlink-india-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené království",
-    "data": "2 GB",
-    "validity": "14",
-    "price_usd": "$6.49",
-    "provider": "Mobimatter",
-    "validityRange": "8–14",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-uk-2-gb-40-minutes-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -55600,26 +55610,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Portoriko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$3.49",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-usa-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$3.49",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-usa-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Indonésie",
     "data": "1 GB",
     "validity": "7",
@@ -57350,16 +57340,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Tanzanie",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$8.00",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-tanzania-2-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Jihoafrická republika",
     "data": "2 GB",
     "validity": "15",
@@ -58010,16 +57990,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Madagaskar",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$20.50",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-madagascar-3-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Jamajka",
     "data": "1 GB",
     "validity": "14",
@@ -58367,26 +58337,6 @@
     "provider": "Mobimatter",
     "validityRange": "1–7",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-latam-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Senegal",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$12.00",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-senegal-2-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Réunion",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$3.49",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-reunion-1-gb-esim#esimmonster",
     "dataRange": "≤1"
   },
   {
@@ -62280,16 +62230,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Madagaskar",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$14.50",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-madagascar-2-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Panama",
     "data": "1 GB",
     "validity": "7",
@@ -62297,26 +62237,6 @@
     "provider": "Mobimatter",
     "validityRange": "1–7",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-panama-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$4.50",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-south-africa-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$4.50",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-tanzania-1-gb-esim#esimmonster",
     "dataRange": "≤1"
   },
   {
@@ -63370,26 +63290,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Senegal",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$6.50",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-senegal-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kamerun",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$6.50",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-cameroon-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Anguilla",
     "data": "1 GB",
     "validity": "7",
@@ -63647,36 +63547,6 @@
     "provider": "Mobimatter",
     "validityRange": "1–7",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-caribbean-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Sierra Leone",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$7.50",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-sierra-leone-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Madagaskar",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$8.00",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-madagascar-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Pobřeží slonoviny",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$8.00",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-ivory-coast-1-gb-esim#esimmonster",
     "dataRange": "≤1"
   },
   {
@@ -64947,16 +64817,6 @@
     "provider": "Mobimatter",
     "validityRange": "1–7",
     "affiliate": "https://mobimatter.com/travel-esim/airalo-greenland-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Etiopie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/airalo-ethiopia-1-gb-esim#esimmonster",
     "dataRange": "≤1"
   },
   {
@@ -198840,36 +198700,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Středoafrická republika",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kuba",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$9.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/cuba-esim?plan_id=66e31906bc98f8528f02fe9e&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Etiopie",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$15.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Guernsey",
     "data": "1 GB",
     "validity": "30",
@@ -198921,16 +198751,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$24.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$38.00",
@@ -198941,6 +198761,16 @@
   },
   {
     "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$24.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vatikán",
     "data": "Unlimited GB",
     "validity": "10",
     "price_usd": "$35.00",
@@ -198948,6 +198778,36 @@
     "validityRange": "8–14",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=6751b9729b4e0c678257c73c&affid=1176&oid=9",
     "dataRange": ""
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kuba",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/cuba-esim?plan_id=66e31906bc98f8528f02fe9e&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Etiopie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
+    "dataRange": "≤1"
   },
   {
     "country": "Evropa",
@@ -221691,26 +221551,6 @@
   },
   {
     "country": "Spojené království",
-    "data": "40 GB",
-    "validity": "30",
-    "price_usd": "$34.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Spojené království",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$29.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Spojené království",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$11.00",
@@ -221728,6 +221568,26 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$25.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené království",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
   },
   {
     "country": "Japonsko",
@@ -221774,16 +221634,6 @@
     "data": "15 GB",
     "validity": "30",
     "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Japonsko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$40.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -221854,6 +221704,16 @@
     "data": "15 GB",
     "validity": "30",
     "price_usd": "$35.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$40.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -222500,16 +222360,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Portugalsko",
-    "data": "40 GB",
-    "validity": "30",
-    "price_usd": "$29.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Řecko",
     "data": "1 GB",
     "validity": "4",
@@ -222574,6 +222424,16 @@
     "data": "30 GB",
     "validity": "30",
     "price_usd": "$24.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -222660,16 +222520,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Maďarsko",
-    "data": "40 GB",
-    "validity": "30",
-    "price_usd": "$29.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Německo",
     "data": "1 GB",
     "validity": "4",
@@ -222734,6 +222584,16 @@
     "data": "30 GB",
     "validity": "30",
     "price_usd": "$24.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Maďarsko",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -223960,16 +223820,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Thajsko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$11.50",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Itálie",
     "data": "20 GB",
     "validity": "30",
@@ -224088,6 +223938,16 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Thajsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$11.50",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
   },
   {
     "country": "Brazílie",
@@ -226770,16 +226630,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Vietnam",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Jižní Korea",
     "data": "1 GB",
     "validity": "4",
@@ -227168,6 +227018,16 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Vietnam",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$9.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
   },
   {
     "country": "Vietnam",
@@ -228654,6 +228514,16 @@
     "data": "Neomezená",
     "validity": "10",
     "price_usd": "$29.00",
+    "provider": "Airhub",
+    "validityRange": "8–14",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Španělsko",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$30.00",
     "provider": "Airhub",
     "validityRange": "8–14",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -236351,13 +236221,13 @@
   },
   {
     "country": "Francie",
-    "data": "5 GB",
+    "data": "Neomezená",
     "validity": "15",
     "price_usd": "$31.90",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
-    "dataRange": "2–5"
+    "dataRange": "Neomezená"
   },
   {
     "country": "Albánie",
@@ -236401,13 +236271,13 @@
   },
   {
     "country": "Itálie",
-    "data": "3 GB",
+    "data": "Neomezená",
     "validity": "1",
     "price_usd": "$3.40",
     "provider": "Airhub",
     "validityRange": "1–7",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
-    "dataRange": "2–5"
+    "dataRange": "Neomezená"
   },
   {
     "country": "Itálie",
@@ -263800,56 +263670,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "€2.20",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "€11.20",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "€15.50",
-    "provider": "Firsty",
-    "validityRange": "8–14",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€23.25",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€45.00",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Alžírsko",
     "data": "Neomezená",
     "validity": "1",
@@ -264091,56 +263911,6 @@
   },
   {
     "country": "Španělsko",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€30.00",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Finsko",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "€1.50",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Finsko",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "€7.70",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Finsko",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "€10.50",
-    "provider": "Firsty",
-    "validityRange": "8–14",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Finsko",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€15.75",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Finsko",
     "data": "Neomezená",
     "validity": "30",
     "price_usd": "€30.00",
@@ -270100,56 +269870,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "€6.60",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "€42.00",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "€57.50",
-    "provider": "Firsty",
-    "validityRange": "8–14",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€86.25",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€165.00",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Keňa",
     "data": "Neomezená",
     "validity": "1",
@@ -270194,6 +269914,156 @@
     "data": "Neomezená",
     "validity": "30",
     "price_usd": "€63.00",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "€2.20",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "€11.20",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "€15.50",
+    "provider": "Firsty",
+    "validityRange": "8–14",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "€23.25",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "€45.00",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Finsko",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "€1.50",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Finsko",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "€7.70",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Finsko",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "€10.50",
+    "provider": "Firsty",
+    "validityRange": "8–14",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Finsko",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "€15.75",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Finsko",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "€30.00",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "€6.60",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "€42.00",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "€57.50",
+    "provider": "Firsty",
+    "validityRange": "8–14",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "€86.25",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "€165.00",
     "provider": "Firsty",
     "validityRange": "15–30",
     "affiliate": "https://firsty.sjv.io/PyJ5aQ",
@@ -272444,56 +272314,6 @@
     "data": "Neomezená",
     "validity": "30",
     "price_usd": "€600.00",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "€3.50",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "€23.10",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "€31.50",
-    "provider": "Firsty",
-    "validityRange": "8–14",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€47.25",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€90.00",
     "provider": "Firsty",
     "validityRange": "15–30",
     "affiliate": "https://firsty.sjv.io/PyJ5aQ",
@@ -278800,56 +278620,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "€15.00",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "€77.00",
-    "provider": "Firsty",
-    "validityRange": "1–7",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "10",
-    "price_usd": "€105.00",
-    "provider": "Firsty",
-    "validityRange": "8–14",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€157.50",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Panama",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€300.00",
-    "provider": "Firsty",
-    "validityRange": "15–30",
-    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Keňa",
     "data": "Neomezená",
     "validity": "1",
@@ -278894,6 +278664,106 @@
     "data": "Neomezená",
     "validity": "30",
     "price_usd": "€150.00",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "€3.50",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "€23.10",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "€31.50",
+    "provider": "Firsty",
+    "validityRange": "8–14",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "€47.25",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "€90.00",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "€15.00",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "€77.00",
+    "provider": "Firsty",
+    "validityRange": "1–7",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "€105.00",
+    "provider": "Firsty",
+    "validityRange": "8–14",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "€157.50",
+    "provider": "Firsty",
+    "validityRange": "15–30",
+    "affiliate": "https://firsty.sjv.io/PyJ5aQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Panama",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "€300.00",
     "provider": "Firsty",
     "validityRange": "15–30",
     "affiliate": "https://firsty.sjv.io/PyJ5aQ",
