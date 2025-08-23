@@ -221020,16 +221020,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Asie",
     "data": "3 GB",
     "validity": "7",
@@ -221038,6 +221028,16 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$7.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
   },
   {
     "country": "Asie",
@@ -221580,6 +221580,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Německo",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Maďarsko",
     "data": "40 GB",
     "validity": "30",
@@ -221651,16 +221661,6 @@
   },
   {
     "country": "Francie",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$24.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Německo",
     "data": "30 GB",
     "validity": "30",
     "price_usd": "$24.99",
@@ -222800,6 +222800,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Thajsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Itálie",
     "data": "20 GB",
     "validity": "30",
@@ -222888,16 +222898,6 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Thajsko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$8.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Thajsko",
@@ -223001,6 +223001,16 @@
   },
   {
     "country": "Kolumbie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$16.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kolumbie",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$25.00",
@@ -223024,6 +223034,16 @@
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -223080,16 +223100,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Kolumbie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kostarika",
     "data": "3 GB",
     "validity": "30",
@@ -223128,16 +223138,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Malajsie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Mexiko",
@@ -224550,6 +224550,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Mauricius",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$15.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Thajsko",
     "data": "15 GB",
     "validity": "10",
@@ -225541,16 +225551,6 @@
   },
   {
     "country": "Mauricius",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$15.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mauricius",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$30.00",
@@ -225578,6 +225578,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
   },
   {
     "country": "Jižní Korea",
@@ -225988,16 +225998,6 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
   },
   {
     "country": "Jižní Korea",
@@ -233233,7 +233233,7 @@
     "country": "Singapur",
     "data": "30 GB",
     "validity": "30",
-    "price_usd": "$30.50",
+    "price_usd": "$20.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -234648,6 +234648,16 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Singapur",
+    "data": "100 GB",
+    "validity": "30",
+    "price_usd": "$32.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "50+"
   },
   {
     "country": "Ålandy",
@@ -236393,11 +236403,601 @@
     "country": "",
     "data": "500 GB",
     "validity": "30",
-    "price_usd": "$39.50",
+    "price_usd": "$36.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "50+"
+  },
+  {
+    "country": "Jihoafrická republika",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Albánie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Alžírsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Saúdská Arábie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Argentina",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Arménie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tristan da Cunha",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Bangladéš",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Benin",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Bělorusko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Botswana",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kambodža",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kamerun",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Chile",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Čína",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Hongkong – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kolumbie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kongo – Brazzaville",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kostarika",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Ekvádor",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Gabon",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Gruzie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Guatemala",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Honduras",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Indie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Indonésie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Izrael",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Jordánsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kosovo",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Laos",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Madagaskar",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Malajsie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Mali",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Maroko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Mexiko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Moldavsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Černá Hora",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Nikaragua",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Uzbekistán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Peru",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Filipíny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Portoriko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Salvador",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Srbsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Singapur",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Thajsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tunisko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Turecko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kypr",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Ukrajina",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Uruguay",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
   },
   {
     "country": "Uzbekistán",
@@ -244600,6 +245200,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Saúdská Arábie",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$12.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/saudi-arabia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Maledivy",
     "data": "10 GB",
     "validity": "30",
@@ -245110,6 +245720,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Egypt",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Mongolsko",
     "data": "3 GB",
     "validity": "30",
@@ -245570,6 +246190,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Nizozemsko",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/netherlands-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Paraguay",
     "data": "10 GB",
     "validity": "30",
@@ -245578,6 +246208,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/paraguay-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Černá Hora",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Burundi",
@@ -245980,6 +246620,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Egypt",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Kyrgyzstán",
     "data": "15 GB",
     "validity": "30",
@@ -246100,6 +246750,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Tchaj-wan",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$18.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/taiwan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Keňa",
     "data": "5 GB",
     "validity": "30",
@@ -246178,6 +246838,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/netherlands-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Srí Lanka",
@@ -246387,6 +247057,16 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/switzerland-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Rusko",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$39.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/russian-federation-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -247180,6 +247860,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Albánie",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/albania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Austrálie",
     "data": "2 GB",
     "validity": "10",
@@ -247187,6 +247877,16 @@
     "provider": "Nomad",
     "validityRange": "8–14",
     "affiliate": "https://www.getnomad.app/australia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/netherlands-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -247690,6 +248390,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gruzie",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/georgia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Kolumbie",
     "data": "5 GB",
     "validity": "30",
@@ -248070,6 +248780,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Albánie",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/albania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Portugalsko",
     "data": "1 GB",
     "validity": "7",
@@ -248208,6 +248928,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/nigeria-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/bosnia-and-herzegovina-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Pákistán",
@@ -248358,6 +249088,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/saint-lucia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Saúdská Arábie",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/saudi-arabia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Ostrov Man",
@@ -248900,6 +249640,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Rusko",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$14.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/russian-federation-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Pobřeží slonoviny",
     "data": "5 GB",
     "validity": "30",
@@ -249280,6 +250030,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Albánie",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/albania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Itálie",
     "data": "3 GB",
     "validity": "30",
@@ -249287,6 +250047,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/italy-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$33.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/australia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -249590,6 +250360,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Egypt",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Čína",
     "data": "2 GB",
     "validity": "7",
@@ -249700,6 +250480,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Tchaj-wan",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$33.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/taiwan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Antigua a Barbuda",
     "data": "1 GB",
     "validity": "7",
@@ -249787,6 +250577,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/eswatini-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Černá Hora",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -249980,6 +250780,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Maroko",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/morocco-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Srí Lanka",
     "data": "15 GB",
     "validity": "30",
@@ -250170,6 +250980,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Saúdská Arábie",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$33.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/saudi-arabia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Francouzská Polynésie",
     "data": "5 GB",
     "validity": "30",
@@ -250228,6 +251048,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/gambia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/bosnia-and-herzegovina-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Peru",
@@ -250530,6 +251360,26 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Saúdská Arábie",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$18.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/saudi-arabia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/bosnia-and-herzegovina-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Česko",
     "data": "20 GB",
     "validity": "30",
@@ -250538,6 +251388,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/czech-republic-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Černá Hora",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Faerské ostrovy",
@@ -250658,6 +251518,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/netherlands-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Spojené království",
@@ -251090,6 +251960,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Austrálie",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/australia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Spojené arabské emiráty",
     "data": "2 GB",
     "validity": "3",
@@ -251118,6 +251998,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/iraq-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Rusko",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$29.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/russian-federation-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Slovinsko",
@@ -251308,6 +252198,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Maroko",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/morocco-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Francie",
@@ -251740,6 +252640,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Austrálie",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$18.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/australia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Estonsko",
     "data": "3 GB",
     "validity": "30",
@@ -251880,6 +252790,26 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Gruzie",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/georgia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Černá Hora",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Slovensko",
     "data": "1 GB",
     "validity": "7",
@@ -251957,6 +252887,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Japonsko",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -252208,6 +253148,16 @@
     "validityRange": "31–90",
     "affiliate": "https://www.getnomad.app/réunion-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/bosnia-and-herzegovina-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Gambie",
@@ -252880,6 +253830,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Tchaj-wan",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$12.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/taiwan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Slovensko",
     "data": "5 GB",
     "validity": "30",
@@ -253160,6 +254120,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gruzie",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/georgia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Kongo – Brazzaville",
     "data": "5 GB",
     "validity": "30",
@@ -253218,6 +254188,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/anguilla-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Maroko",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/morocco-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Turks a Caicos",
@@ -253452,6 +254432,16 @@
   {
     "country": "Japonsko",
     "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Japonsko",
+    "data": "2 GB",
     "validity": "7",
     "price_usd": "$23.00",
     "provider": "Nomad",
@@ -253478,6 +254468,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/finland-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/taiwan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Lucembursko",
@@ -253610,6 +254610,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gruzie",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/georgia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Severní Makedonie",
     "data": "3 GB",
     "validity": "30",
@@ -253727,6 +254737,16 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/germany-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Japonsko",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -254280,6 +255300,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Austrálie",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$12.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/australia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Burkina Faso",
     "data": "10 GB",
     "validity": "30",
@@ -254638,6 +255668,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/holy-see-(vatican-city)-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Egypt",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Turks a Caicos",
@@ -255120,6 +256160,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Albánie",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/albania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Katar",
     "data": "1 GB",
     "validity": "7",
@@ -255247,6 +256297,26 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/estonia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Rusko",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$21.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/russian-federation-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Japonsko",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -255417,6 +256487,16 @@
     "provider": "Nomad",
     "validityRange": "8–14",
     "affiliate": "https://www.getnomad.app/thailand-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Maroko",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$31.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getnomad.app/morocco-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
