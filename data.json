@@ -221020,16 +221020,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Asie",
     "data": "3 GB",
     "validity": "7",
@@ -221038,6 +221028,16 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$7.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
   },
   {
     "country": "Asie",
@@ -221580,6 +221580,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Německo",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Maďarsko",
     "data": "40 GB",
     "validity": "30",
@@ -221651,16 +221661,6 @@
   },
   {
     "country": "Francie",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$24.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Německo",
     "data": "30 GB",
     "validity": "30",
     "price_usd": "$24.99",
@@ -222800,6 +222800,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Thajsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Itálie",
     "data": "20 GB",
     "validity": "30",
@@ -222888,16 +222898,6 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Thajsko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$8.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Thajsko",
@@ -223001,6 +223001,16 @@
   },
   {
     "country": "Kolumbie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$16.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kolumbie",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$25.00",
@@ -223024,6 +223034,16 @@
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -223080,16 +223100,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Kolumbie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kostarika",
     "data": "3 GB",
     "validity": "30",
@@ -223128,16 +223138,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Malajsie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Mexiko",
@@ -224550,6 +224550,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Mauricius",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$15.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Thajsko",
     "data": "15 GB",
     "validity": "10",
@@ -225541,16 +225551,6 @@
   },
   {
     "country": "Mauricius",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$15.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mauricius",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$30.00",
@@ -225578,6 +225578,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
   },
   {
     "country": "Jižní Korea",
@@ -225988,16 +225998,6 @@
     "validityRange": "8–14",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$34.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
   },
   {
     "country": "Jižní Korea",
