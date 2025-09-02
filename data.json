@@ -3423,6 +3423,66 @@
     "country": "Francie",
     "data": "1 GB",
     "validity": "7",
+    "price_usd": "$4.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Francie",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$8.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Francie",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$12.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Francie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$19.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Francie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Francie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Francie",
+    "data": "1 GB",
+    "validity": "7",
     "price_usd": "$5.00",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -23681,16 +23741,6 @@
   },
   {
     "country": "Celý svět",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "€24.00",
-    "provider": "Yesim",
-    "validityRange": "15–30",
-    "affiliate": "https://yesim.app/global/global80-esim/?partner_id=517",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Celý svět",
     "data": "20 GB",
     "validity": "90",
     "price_usd": "€39.00",
@@ -23718,6 +23768,16 @@
     "validityRange": "91+",
     "affiliate": "https://yesim.app/global/global80-esim/?partner_id=517",
     "dataRange": "50+"
+  },
+  {
+    "country": "Celý svět",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "€29.00",
+    "provider": "Yesim",
+    "validityRange": "15–30",
+    "affiliate": "https://yesim.app/global/global80-esim/?partner_id=517",
+    "dataRange": "6–10"
   },
   {
     "country": "Černá Hora",
@@ -23967,6 +24027,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-south-korea-50-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Japonsko",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-japan-50-gb-esim#esimmonster",
     "dataRange": "21–50"
   },
   {
@@ -24237,6 +24307,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/iij-japan-12-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-japan-20-gb-esim#esimmonster",
     "dataRange": "11–20"
   },
   {
@@ -24518,6 +24598,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-south-korea-20-gb-esim#esimmonster",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-japan-10-gb-esim#esimmonster",
+    "dataRange": "6–10"
   },
   {
     "country": "Japonsko",
@@ -28808,6 +28898,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-europe-usa-15%2B3-gb-free-esim#esimmonster",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$5.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-japan-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
   },
   {
     "country": "Rakousko",
@@ -211323,7 +211423,7 @@
     "country": "Moldavsko",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$6.50",
+    "price_usd": "$4.00",
     "provider": "Airhub",
     "validityRange": "1–7",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -211673,7 +211773,7 @@
     "country": "Britské Panenské ostrovy",
     "data": "12 GB",
     "validity": "30",
-    "price_usd": "$38.50",
+    "price_usd": "$43.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -211683,7 +211783,7 @@
     "country": "Britské Panenské ostrovy",
     "data": "4 GB",
     "validity": "30",
-    "price_usd": "$12.50",
+    "price_usd": "$15.50",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -211693,7 +211793,7 @@
     "country": "Britské Panenské ostrovy",
     "data": "7 GB",
     "validity": "30",
-    "price_usd": "$19.50",
+    "price_usd": "$26.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -212393,7 +212493,7 @@
     "country": "Svatá Lucie",
     "data": "12 GB",
     "validity": "30",
-    "price_usd": "$38.50",
+    "price_usd": "$43.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -212413,7 +212513,7 @@
     "country": "Svatá Lucie",
     "data": "7 GB",
     "validity": "30",
-    "price_usd": "$19.50",
+    "price_usd": "$26.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -212553,7 +212653,7 @@
     "country": "Severní Makedonie",
     "data": "12 GB",
     "validity": "30",
-    "price_usd": "$10.50",
+    "price_usd": "$15.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -215903,7 +216003,7 @@
     "country": "Spojené státy",
     "data": "Neomezená",
     "validity": "15",
-    "price_usd": "$21.00",
+    "price_usd": "$26.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -327122,12 +327222,42 @@
   {
     "country": "Vietnam",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
+    "validity": "5",
+    "price_usd": "$10.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/vietnam/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
+    "data": "20 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/vietnam/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
+    "data": "30 GB",
+    "validity": "10",
+    "price_usd": "$14.00",
+    "provider": "Roamify",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getroamify.com/esim/vietnam/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Vietnam",
+    "data": "30 GB",
+    "validity": "15",
+    "price_usd": "$16.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/vietnam/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "11–20"
+    "dataRange": "21–50"
   },
   {
     "country": "Severní Amerika",
