@@ -32150,16 +32150,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Spojené státy",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$19.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Japonsko",
     "data": "10 GB",
     "validity": "15",
@@ -32740,16 +32730,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Spojené státy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Albánie",
     "data": "10 GB",
     "validity": "30",
@@ -33201,6 +33181,16 @@
   },
   {
     "country": "Spojené státy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-20-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené státy",
     "data": "50 GB",
     "validity": "30",
     "price_usd": "$52.49",
@@ -33467,6 +33457,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-new-zealand-10-gb-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-10-gb-esim#esimmonster",
     "dataRange": "6–10"
   },
   {
@@ -34600,16 +34600,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené státy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$5.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Polsko",
     "data": "5 GB",
     "validity": "30",
@@ -35000,16 +34990,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Spojené státy",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$23.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Turecko",
     "data": "5 GB",
     "validity": "30",
@@ -35340,6 +35320,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Spojené státy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$24.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-20-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Kuvajt",
     "data": "20 GB",
     "validity": "30",
@@ -35428,6 +35418,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-egypt-20-gb-esim#esimmonster",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$6.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
   },
   {
     "country": "Čína",
@@ -37150,16 +37150,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené státy",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$4.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-3-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Hongkong – ZAO Číny",
     "data": "3 GB",
     "validity": "30",
@@ -37258,16 +37248,6 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-new-zealand-5-gb-esim#esimmonster",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$14.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
   },
   {
     "country": "Jordánsko",
@@ -37437,6 +37417,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-sri-lanka-10-gb-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-10-gb-esim#esimmonster",
     "dataRange": "6–10"
   },
   {
@@ -39620,6 +39610,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené státy",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$4.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-usa-3-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Indonésie",
     "data": "3 GB",
     "validity": "30",
@@ -40587,16 +40587,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/airalo-philippines-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$8.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-5-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -42970,6 +42960,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené státy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Maroko",
     "data": "5 GB",
     "validity": "30",
@@ -43447,6 +43447,36 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-bahrain-3-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Portoriko",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$3.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/nextlink-usa-2-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$3.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/nextlink-usa-2-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Americké Panenské ostrovy",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$3.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/nextlink-usa-2-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -251653,7 +251683,7 @@
     "country": "Andorra",
     "data": "12 GB",
     "validity": "30",
-    "price_usd": "$17.28",
+    "price_usd": "$19.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -256700,7 +256730,7 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Řecko",
+    "country": "Alžírsko",
     "data": "22 GB",
     "validity": "30",
     "price_usd": "$33.00",
@@ -259870,16 +259900,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Mali",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$80.00",
-    "provider": "Airhub",
-    "validityRange": "15–30",
-    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Rwanda",
     "data": "1 GB",
     "validity": "7",
@@ -260053,7 +260073,7 @@
     "country": "",
     "data": "500 GB",
     "validity": "30",
-    "price_usd": "$42.50",
+    "price_usd": "$44.50",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -261568,6 +261588,26 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "11–20"
+  },
+  {
+    "country": "",
+    "data": "100 GB",
+    "validity": "30",
+    "price_usd": "$115.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "300 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "50+"
   },
   {
     "country": "Uzbekistán",
