@@ -4371,6 +4371,16 @@
   },
   {
     "country": "Gruzie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Gruzie",
     "data": "2 GB",
     "validity": "15",
     "price_usd": "$10.00",
@@ -4453,7 +4463,7 @@
     "country": "Gruzie",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$18.00",
+    "price_usd": "$17.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -4463,7 +4473,7 @@
     "country": "Gruzie",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$31.00",
+    "price_usd": "$28.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -4493,7 +4503,7 @@
     "country": "Gibraltar",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$8.00",
+    "price_usd": "$10.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -4528,6 +4538,26 @@
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Gibraltar",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$42.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Gibraltar",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$26.25",
+    "provider": "Airalo",
+    "validityRange": "8–14",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Egypt",
@@ -7673,7 +7703,7 @@
     "country": "Malta",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$7.00",
+    "price_usd": "$8.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -7708,6 +7738,26 @@
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Malta",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$28.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Malta",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$26.25",
+    "provider": "Airalo",
+    "validityRange": "8–14",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Itálie",
@@ -9343,7 +9393,7 @@
     "country": "Omán",
     "data": "Neomezená",
     "validity": "10",
-    "price_usd": "$28.50",
+    "price_usd": "$38.00",
     "provider": "Airalo",
     "validityRange": "8–14",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -26040,16 +26090,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Čína",
-    "data": "50 GB",
-    "validity": "60",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "31–90",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-china-special-50-gb-60-days-esim#esimmonster",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Portoriko",
     "data": "50 GB",
     "validity": "60",
@@ -26707,6 +26747,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-vietnam-plus-30-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Čína",
+    "data": "50 GB",
+    "validity": "60",
+    "price_usd": "$44.99",
+    "provider": "Mobimatter",
+    "validityRange": "31–90",
+    "affiliate": "https://mobimatter.com/travel-esim/nextlink-china-special-50-gb-60-days-esim#esimmonster",
     "dataRange": "21–50"
   },
   {
@@ -38280,16 +38330,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Mexiko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$41.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-mexico-premium-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Čína",
     "data": "100 GB",
     "validity": "5",
@@ -40630,16 +40670,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Mexiko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$25.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-mexico-premium-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Egypt",
     "data": "5 GB",
     "validity": "30",
@@ -41471,16 +41501,6 @@
   },
   {
     "country": "Kuvajt",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$34.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-middle-east-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Omán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$34.99",
@@ -43820,16 +43840,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Mexiko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-mexico-premium-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kolumbie",
     "data": "10 GB",
     "validity": "30",
@@ -43891,16 +43901,6 @@
   },
   {
     "country": "Kuvajt",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-middle-east-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Omán",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$19.99",
@@ -45081,16 +45081,6 @@
   },
   {
     "country": "Kuvajt",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$10.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-middle-east-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Omán",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$10.99",
@@ -47171,16 +47161,6 @@
   },
   {
     "country": "Kuvajt",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$7.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-middle-east-3-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Omán",
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$7.99",
@@ -51827,16 +51807,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-panama-3-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mexiko",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$10.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-mexico-premium-3-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -64890,16 +64860,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Omán",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$3.99",
-    "provider": "Mobimatter",
-    "validityRange": "1–7",
-    "affiliate": "https://mobimatter.com/travel-esim/nextlink-middle-east-1-gb-esim#esimmonster",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Katar",
     "data": "1 GB",
     "validity": "7",
@@ -74211,156 +74171,6 @@
   },
   {
     "country": "Celý svět",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Celý svět",
-    "data": "50 GB",
-    "validity": "365",
-    "price_usd": "$84.99",
-    "provider": "Global YO",
-    "validityRange": "91+",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Asie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.59",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Severní Amerika",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$69.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Latinská Amerika",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$137.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Celý svět",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanada",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$37.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Evropa",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$18.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Evropa",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$41.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Portugalsko",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$6.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kanada",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$177.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Evropa",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Asie",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$139.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Latinská Amerika",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$81.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Asie",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$114.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Celý svět",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$23.99",
@@ -74450,6 +74260,66 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Mongolsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Mongolsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Mongolsko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mongolsko",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$18.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mongolsko",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$9.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mauricius",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$164.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Asie",
     "data": "1 GB",
     "validity": "3",
@@ -74458,66 +74328,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Mauricius",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$8.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Martinik",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$84.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Martinik",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$49.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Martinik",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Martinik",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$16.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Martinik",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Celý svět",
@@ -74870,6 +74680,76 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Omán",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$73.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Omán",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$52.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Omán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Omán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$21.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Omán",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$15.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Omán",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$10.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Omán",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$5.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Itálie",
     "data": "100 GB",
     "validity": "60",
@@ -74900,84 +74780,114 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Itálie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Itálie",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Itálie",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Itálie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Izrael",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$54.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Izrael",
+    "country": "Mauricius",
     "data": "50 GB",
     "validity": "45",
-    "price_usd": "$31.99",
+    "price_usd": "$95.99",
     "provider": "Global YO",
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
   },
   {
-    "country": "Izrael",
+    "country": "Mauricius",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$17.99",
+    "price_usd": "$52.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
   },
   {
-    "country": "Izrael",
+    "country": "Mauricius",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$10.99",
+    "price_usd": "$31.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Mauricius",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mauricius",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mauricius",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$8.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Martinik",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$84.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Martinik",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$49.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Martinik",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$27.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Martinik",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$16.59",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Martinik",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Martinik",
@@ -75090,6 +75000,46 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Itálie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Itálie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Itálie",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Itálie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Malawi",
     "data": "20 GB",
     "validity": "30",
@@ -75098,6 +75048,26 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Izrael",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$54.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Izrael",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$31.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
   },
   {
     "country": "Malawi",
@@ -75200,46 +75170,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Izrael",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Izrael",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$5.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Izrael",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$2.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Tunisko",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$94.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Madagaskar",
     "data": "1 GB",
     "validity": "3",
@@ -75248,26 +75178,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Tunisko",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$55.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Tunisko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$30.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Severní Makedonie",
@@ -75490,6 +75400,16 @@
     "dataRange": "50+"
   },
   {
+    "country": "Izrael",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Jersey",
     "data": "50 GB",
     "validity": "45",
@@ -75498,6 +75418,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Izrael",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
   },
   {
     "country": "Jersey",
@@ -75510,6 +75440,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Izrael",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Jersey",
     "data": "10 GB",
     "validity": "30",
@@ -75518,6 +75458,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Izrael",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$5.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Jersey",
@@ -75530,6 +75480,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Izrael",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$2.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Jersey",
     "data": "3 GB",
     "validity": "15",
@@ -75538,6 +75498,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Tunisko",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$94.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
   },
   {
     "country": "Jersey",
@@ -75550,6 +75520,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Tunisko",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$55.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Pobřeží slonoviny",
     "data": "100 GB",
     "validity": "60",
@@ -75558,6 +75538,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Tunisko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$30.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Pobřeží slonoviny",
@@ -75580,26 +75570,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Pobřeží slonoviny",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$38.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Pobřeží slonoviny",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Tunisko",
     "data": "10 GB",
     "validity": "30",
@@ -75611,13 +75581,13 @@
   },
   {
     "country": "Pobřeží slonoviny",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$19.99",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$38.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "6–10"
   },
   {
     "country": "Tunisko",
@@ -75631,13 +75601,13 @@
   },
   {
     "country": "Pobřeží slonoviny",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$10.89",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$27.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
     "country": "Tunisko",
@@ -75650,14 +75620,14 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Haiti",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$164.99",
+    "country": "Pobřeží slonoviny",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$19.99",
     "provider": "Global YO",
-    "validityRange": "31–90",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
+    "dataRange": "2–5"
   },
   {
     "country": "Tunisko",
@@ -75670,16 +75640,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Haiti",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$81.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Kyrgyzstán",
     "data": "100 GB",
     "validity": "60",
@@ -75690,14 +75650,14 @@
     "dataRange": "50+"
   },
   {
-    "country": "Haiti",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$52.99",
+    "country": "Pobřeží slonoviny",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$10.89",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
+    "dataRange": "≤1"
   },
   {
     "country": "Kyrgyzstán",
@@ -75711,13 +75671,13 @@
   },
   {
     "country": "Haiti",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$164.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
+    "dataRange": "50+"
   },
   {
     "country": "Kyrgyzstán",
@@ -75730,16 +75690,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Haiti",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kyrgyzstán",
     "data": "10 GB",
     "validity": "30",
@@ -75748,26 +75698,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Haiti",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Haiti",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$8.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
   },
   {
     "country": "Kyrgyzstán",
@@ -75780,16 +75710,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Guinea-Bissau",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$169.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Kyrgyzstán",
     "data": "3 GB",
     "validity": "15",
@@ -75800,16 +75720,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Guinea-Bissau",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$84.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Kyrgyzstán",
     "data": "1 GB",
     "validity": "3",
@@ -75818,16 +75728,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Guinea-Bissau",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$54.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Egypt",
@@ -75850,16 +75750,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Guinea-Bissau",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$33.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Egypt",
     "data": "20 GB",
     "validity": "30",
@@ -75868,16 +75758,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Guinea-Bissau",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Egypt",
@@ -75900,16 +75780,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Mexiko",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$12.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Egypt",
     "data": "3 GB",
     "validity": "15",
@@ -75918,6 +75788,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Čína",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Egypt",
@@ -76430,6 +76310,96 @@
     "dataRange": "50+"
   },
   {
+    "country": "Haiti",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$81.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Haiti",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$52.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Haiti",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Haiti",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Haiti",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Haiti",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$8.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$169.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$84.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$54.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Zambie",
     "data": "50 GB",
     "validity": "45",
@@ -76440,74 +76410,24 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Zambie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$47.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Zambie",
+    "country": "Guinea-Bissau",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$29.99",
+    "price_usd": "$33.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
   },
   {
-    "country": "Zambie",
+    "country": "Guinea-Bissau",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$20.99",
+    "price_usd": "$23.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Zambie",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$14.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Zambie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$7.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Uruguay",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$109.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Uruguay",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$63.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Guinea-Bissau",
@@ -76518,6 +76438,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Zambie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$47.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Guinea-Bissau",
@@ -76540,6 +76470,16 @@
     "dataRange": "50+"
   },
   {
+    "country": "Zambie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Guinea",
     "data": "50 GB",
     "validity": "45",
@@ -76558,6 +76498,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Zambie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Guinea",
@@ -76590,6 +76540,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Zambie",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Guinea",
     "data": "1 GB",
     "validity": "3",
@@ -76598,16 +76558,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Uruguay",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Guatemala",
@@ -76630,6 +76580,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Zambie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$7.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Guatemala",
     "data": "20 GB",
     "validity": "30",
@@ -76641,13 +76601,13 @@
   },
   {
     "country": "Uruguay",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$21.99",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$109.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
+    "dataRange": "50+"
   },
   {
     "country": "Guatemala",
@@ -76671,13 +76631,13 @@
   },
   {
     "country": "Uruguay",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$15.99",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$63.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "21–50"
   },
   {
     "country": "Guatemala",
@@ -76700,16 +76660,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Uruguay",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$10.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Grónsko",
     "data": "100 GB",
     "validity": "60",
@@ -76718,6 +76668,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Uruguay",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Grónsko",
@@ -76740,20 +76700,20 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Uruguay",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$5.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Grónsko",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$39.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Uruguay",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$21.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -76780,16 +76740,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Turks a Caicos",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$144.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Grónsko",
     "data": "1 GB",
     "validity": "3",
@@ -76798,16 +76748,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$84.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Gabon",
@@ -76828,16 +76768,6 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$46.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Gabon",
@@ -76870,20 +76800,20 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Turks a Caicos",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$28.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Gabon",
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Uruguay",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$15.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -76898,116 +76828,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$84.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$20.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$42.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$8.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Francouzská Guyana",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$4.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Fidži",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$234.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Fidži",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$116.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Fidži",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$75.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Kanada",
@@ -80940,14 +80760,244 @@
     "dataRange": "50+"
   },
   {
-    "country": "Turks a Caicos",
+    "country": "Mexiko",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$12.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Mexiko",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$15.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mexiko",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$58.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Mexiko",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$69.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čína",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Čína",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$8.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čína",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$13.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Čína",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čína",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$21.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Čína",
+    "data": "1 GB",
+    "validity": "15",
+    "price_usd": "$26.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čína",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$33.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$84.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$42.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Uruguay",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$14.99",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$27.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Uruguay",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$5.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$8.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$4.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$144.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Fidži",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$234.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Fidži",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$116.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Fidži",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$75.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Fidži",
@@ -80970,6 +81020,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Turks a Caicos",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$84.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Fidži",
     "data": "3 GB",
     "validity": "15",
@@ -80978,16 +81038,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$7.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
   },
   {
     "country": "Fidži",
@@ -81010,16 +81060,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Trinidad a Tobago",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$194.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Faerské ostrovy",
     "data": "50 GB",
     "validity": "45",
@@ -81028,6 +81068,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$46.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Faerské ostrovy",
@@ -81050,16 +81100,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Trinidad a Tobago",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$113.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Faerské ostrovy",
     "data": "5 GB",
     "validity": "15",
@@ -81078,6 +81118,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$28.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
   },
   {
     "country": "Faerské ostrovy",
@@ -81110,16 +81160,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Trinidad a Tobago",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$62.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Salvador",
     "data": "20 GB",
     "validity": "30",
@@ -81160,16 +81200,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Trinidad a Tobago",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$38.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Salvador",
     "data": "1 GB",
     "validity": "3",
@@ -81180,6 +81210,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Turks a Caicos",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Dominikánská republika",
     "data": "100 GB",
     "validity": "60",
@@ -81188,6 +81228,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Dominikánská republika",
@@ -81210,14 +81260,14 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Trinidad a Tobago",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$27.99",
+    "country": "Turks a Caicos",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$7.89",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "≤1"
   },
   {
     "country": "Dominikánská republika",
@@ -81228,6 +81278,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Trinidad a Tobago",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$194.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
   },
   {
     "country": "Dominikánská republika",
@@ -81250,6 +81310,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Trinidad a Tobago",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$113.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Dominikánská republika",
     "data": "1 GB",
     "validity": "3",
@@ -81268,6 +81338,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Trinidad a Tobago",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$62.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
   },
   {
     "country": "Kongo – Kinshasa",
@@ -81290,6 +81370,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Trinidad a Tobago",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$38.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Kongo – Kinshasa",
     "data": "10 GB",
     "validity": "30",
@@ -81298,16 +81388,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Trinidad a Tobago",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Kongo – Kinshasa",
@@ -81321,13 +81401,13 @@
   },
   {
     "country": "Trinidad a Tobago",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$10.89",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$27.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
     "country": "Kongo – Kinshasa",
@@ -81350,14 +81430,14 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Tonga",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$184.99",
+    "country": "Trinidad a Tobago",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$19.99",
     "provider": "Global YO",
-    "validityRange": "31–90",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
+    "dataRange": "2–5"
   },
   {
     "country": "Čad",
@@ -81370,16 +81450,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Tonga",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$107.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Čad",
     "data": "50 GB",
     "validity": "45",
@@ -81390,20 +81460,20 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Trinidad a Tobago",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$10.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Čad",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$51.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Tonga",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$59.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -81430,16 +81500,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Tonga",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Čad",
     "data": "3 GB",
     "validity": "15",
@@ -81461,6 +81521,166 @@
   },
   {
     "country": "Tonga",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$184.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Kamerun",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$164.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Kamerun",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$95.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Kamerun",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$52.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tonga",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$107.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Kamerun",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kamerun",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kamerun",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tonga",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$59.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kamerun",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$8.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$164.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$95.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Tonga",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$52.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tonga",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$25.99",
@@ -81470,166 +81690,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Kamerun",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$164.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Kamerun",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$95.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Tonga",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$18.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kamerun",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$52.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Kamerun",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Tonga",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$9.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kamerun",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kamerun",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$149.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Kamerun",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$8.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$164.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$95.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$52.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$86.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Burkina Faso",
     "data": "3 GB",
     "validity": "15",
@@ -81648,16 +81708,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$47.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Botswana",
@@ -81668,6 +81718,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Tonga",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$18.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Botswana",
@@ -81690,16 +81750,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Tanzanie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$29.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Botswana",
     "data": "10 GB",
     "validity": "30",
@@ -81708,6 +81758,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Tonga",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$9.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Botswana",
@@ -81731,13 +81791,13 @@
   },
   {
     "country": "Tanzanie",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$20.99",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$149.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "50+"
   },
   {
     "country": "Botswana",
@@ -81771,13 +81831,13 @@
   },
   {
     "country": "Tanzanie",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$14.99",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$86.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "21–50"
   },
   {
     "country": "Bermudy",
@@ -81811,13 +81871,13 @@
   },
   {
     "country": "Tanzanie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$7.89",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$47.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "11–20"
   },
   {
     "country": "Bermudy",
@@ -81840,20 +81900,20 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Tanzanie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$29.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Bangladéš",
     "data": "100 GB",
     "validity": "60",
     "price_usd": "$79.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Tádžikistán",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$69.99",
     "provider": "Global YO",
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -81870,6 +81930,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Tanzanie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Bangladéš",
     "data": "20 GB",
     "validity": "30",
@@ -81880,16 +81950,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Tádžikistán",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$40.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Bangladéš",
     "data": "10 GB",
     "validity": "30",
@@ -81898,6 +81958,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Tanzanie",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Bangladéš",
@@ -81918,16 +81988,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Tádžikistán",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$22.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Bangladéš",
@@ -81960,16 +82020,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Tádžikistán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Bahrajn",
     "data": "20 GB",
     "validity": "30",
@@ -81990,16 +82040,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Tádžikistán",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Bahrajn",
     "data": "5 GB",
     "validity": "15",
@@ -82010,20 +82050,20 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Tanzanie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$7.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Bahrajn",
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Tádžikistán",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$6.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -82040,6 +82080,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Tádžikistán",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$69.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Afghánistán",
     "data": "100 GB",
     "validity": "60",
@@ -82051,13 +82101,13 @@
   },
   {
     "country": "Tádžikistán",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.89",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$40.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "21–50"
   },
   {
     "country": "Afghánistán",
@@ -82090,6 +82140,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Tádžikistán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Afghánistán",
     "data": "5 GB",
     "validity": "15",
@@ -82098,6 +82158,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Tádžikistán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$13.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
   },
   {
     "country": "Afghánistán",
@@ -82140,14 +82210,14 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Surinam",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$164.99",
+    "country": "Tádžikistán",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
     "provider": "Global YO",
-    "validityRange": "31–90",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
+    "dataRange": "2–5"
   },
   {
     "country": "Čína",
@@ -82170,16 +82240,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Surinam",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$95.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Čína",
     "data": "1 GB",
     "validity": "3",
@@ -82188,6 +82248,46 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Tádžikistán",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$6.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tádžikistán",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Surinam",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$164.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Surinam",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$95.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
   },
   {
     "country": "Surinam",
@@ -82200,36 +82300,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Čína",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Čína",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$33.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Čína",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$26.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Surinam",
     "data": "10 GB",
     "validity": "30",
@@ -82238,16 +82308,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Čína",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "$21.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
   },
   {
     "country": "Surinam",
@@ -82260,46 +82320,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Čína",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Čína",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Čína",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$8.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Čína",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Surinam",
     "data": "3 GB",
     "validity": "15",
@@ -82308,36 +82328,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Mexiko",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$69.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Mexiko",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$58.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Mexiko",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$15.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
   },
   {
     "country": "Surinam",
@@ -82928,116 +82918,6 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Mongolsko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$59.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Mongolsko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Mongolsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$25.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mongolsko",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$18.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mongolsko",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$9.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Mauricius",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$164.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Mauricius",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$95.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Mauricius",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$52.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Mauricius",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$31.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Mauricius",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Mauricius",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Asie",
@@ -83660,14 +83540,164 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Bahamy",
+    "country": "Celý svět",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Celý svět",
+    "data": "50 GB",
+    "validity": "365",
+    "price_usd": "$84.99",
+    "provider": "Global YO",
+    "validityRange": "91+",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Asie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.59",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Severní Amerika",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$65.99",
+    "price_usd": "$69.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Latinská Amerika",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$137.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Celý svět",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanada",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$37.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Evropa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$18.59",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Evropa",
+    "data": "1 GB",
+    "validity": "15",
+    "price_usd": "$41.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$6.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kanada",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$177.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Asie",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$139.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Latinská Amerika",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$81.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Asie",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$114.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Barbados",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$118.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
   },
   {
     "country": "Albánie",
@@ -84074,16 +84104,6 @@
     "data": "1 GB",
     "validity": "3",
     "price_usd": "$3.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Omán",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$5.89",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -87980,26 +88000,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Omán",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$45.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Omán",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$73.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Gibraltar",
     "data": "50 GB",
     "validity": "45",
@@ -89291,6 +89291,16 @@
   },
   {
     "country": "Bahamy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$65.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Bahamy",
     "data": "50 GB",
     "validity": "45",
     "price_usd": "$118.99",
@@ -89348,16 +89358,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Barbados",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$118.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Britské Panenské ostrovy",
@@ -91850,10 +91850,10 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Spojené arabské emiráty",
+    "country": "Spojené království",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$10.99",
+    "price_usd": "$6.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -92230,10 +92230,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené království",
+    "country": "Spojené arabské emiráty",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$6.99",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -92424,16 +92424,6 @@
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Omán",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93220,6 +93210,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Jihoafrická republika",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$29.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Ázerbájdžán",
     "data": "5 GB",
     "validity": "15",
@@ -93230,7 +93230,7 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Litva",
+    "country": "Lichtenštejnsko",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$9.99",
@@ -93260,7 +93260,7 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Lichtenštejnsko",
+    "country": "Lotyšsko",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$9.99",
@@ -93290,10 +93290,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Lotyšsko",
+    "country": "Kuvajt",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$9.99",
+    "price_usd": "$12.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93310,6 +93310,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Moldavsko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$18.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Portugalsko",
     "data": "5 GB",
     "validity": "15",
@@ -93320,10 +93330,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Kuvajt",
+    "country": "Kazachstán",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$12.99",
+    "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93340,16 +93350,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Moldavsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$18.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Kostarika",
     "data": "5 GB",
     "validity": "15",
@@ -93360,10 +93360,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Kazachstán",
+    "country": "Japonsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$9.99",
+    "price_usd": "$11.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93390,10 +93390,20 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Japonsko",
+    "country": "Irsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$11.99",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Belgie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93410,26 +93420,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Belgie",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Irsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Laos",
     "data": "5 GB",
     "validity": "15",
@@ -93438,26 +93428,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Nový Zéland",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Indie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$20.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
   },
   {
     "country": "Island",
@@ -93490,24 +93460,24 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Nizozemsko",
+    "country": "Nový Zéland",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$20.99",
+    "price_usd": "$16.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
   },
   {
-    "country": "Island",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$17.99",
+    "country": "Indie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "6–10"
   },
   {
     "country": "Mexiko",
@@ -93530,6 +93500,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Nizozemsko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Malajsie",
     "data": "1 GB",
     "validity": "7",
@@ -93540,24 +93520,14 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Izrael",
+    "country": "Island",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$14.99",
+    "price_usd": "$17.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Latinská Amerika",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$11.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Hongkong – ZAO Číny",
@@ -93580,10 +93550,10 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Řecko",
+    "country": "Izrael",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$20.99",
+    "price_usd": "$14.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93600,14 +93570,14 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Singapur",
-    "data": "10 GB",
-    "validity": "30",
+    "country": "Latinská Amerika",
+    "data": "3 GB",
+    "validity": "15",
     "price_usd": "$11.59",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
+    "dataRange": "2–5"
   },
   {
     "country": "Evropa",
@@ -93630,24 +93600,24 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Gruzie",
+    "country": "Řecko",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$32.99",
+    "price_usd": "$20.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
   },
   {
-    "country": "Chorvatsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
+    "country": "Singapur",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$11.59",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "6–10"
   },
   {
     "country": "Francie",
@@ -93660,10 +93630,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Maroko",
+    "country": "Chorvatsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$16.99",
+    "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -93690,6 +93660,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gruzie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Česko",
     "data": "1 GB",
     "validity": "7",
@@ -93698,6 +93678,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Maroko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Kypr",
@@ -93790,16 +93780,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Saúdská Arábie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$21.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Kanada",
     "data": "1 GB",
     "validity": "7",
@@ -93854,6 +93834,16 @@
     "data": "1 GB",
     "validity": "7",
     "price_usd": "$28.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Saúdská Arábie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$21.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94410,14 +94400,14 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Finsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
+    "country": "Chorvatsko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$17.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "≤1"
   },
   {
     "country": "Bosna a Hercegovina",
@@ -94440,14 +94430,14 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Chorvatsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$17.99",
+    "country": "Finsko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
     "country": "Peru",
@@ -94540,10 +94530,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Omán",
+    "country": "Norsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$15.99",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94570,10 +94560,10 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Norsko",
+    "country": "Nový Zéland",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$10.99",
+    "price_usd": "$8.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94600,10 +94590,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Nový Zéland",
+    "country": "Nizozemsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$8.99",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94630,10 +94620,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Nizozemsko",
+    "country": "Černá Hora",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$10.99",
+    "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94654,36 +94644,6 @@
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$16.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Černá Hora",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Alžírsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Řecko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94740,10 +94700,50 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Alžírsko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Řecko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$10.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malta",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Švýcarsko",
     "data": "1 GB",
     "validity": "7",
     "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kazachstán",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$17.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -94760,16 +94760,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Malta",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Srí Lanka",
     "data": "1 GB",
     "validity": "7",
@@ -94780,14 +94770,14 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Kazachstán",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$17.99",
+    "country": "Lucembursko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
     "country": "Chile",
@@ -94810,16 +94800,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Lucembursko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Honduras",
     "data": "5 GB",
     "validity": "15",
@@ -94830,17 +94810,17 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Jihoafrická republika",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$29.99",
+    "country": "Litva",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
     "provider": "Global YO",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
-    "country": "Rumunsko",
+    "country": "Lichtenštejnsko",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$13.59",
@@ -95230,10 +95210,10 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Austrálie",
+    "country": "Rumunsko",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$17.99",
+    "price_usd": "$13.59",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -95244,16 +95224,6 @@
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$18.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Omán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$20.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -95350,10 +95320,10 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Lichtenštejnsko",
+    "country": "Austrálie",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$13.59",
+    "price_usd": "$17.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -95580,20 +95550,20 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Srí Lanka",
+    "country": "Chile",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$11.59",
+    "price_usd": "$20.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
   },
   {
-    "country": "Chile",
+    "country": "Srí Lanka",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$20.99",
+    "price_usd": "$11.59",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -95710,7 +95680,17 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Lichtenštejnsko",
+    "country": "Lotyšsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Litva",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$20.99",
@@ -95800,30 +95780,10 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Omán",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Panama",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$33.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -95870,10 +95830,30 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Uruguay",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$69.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Srbsko",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$21.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Jihoafrická republika",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$33.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -96000,30 +95980,10 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Lotyšsko",
+    "country": "Lichtenštejnsko",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$20.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Litva",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$20.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Uruguay",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$69.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -96100,6 +96060,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Evropa",
+    "data": "1 GB",
+    "validity": "15",
+    "price_usd": "$35.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Turecko",
     "data": "20 GB",
     "validity": "30",
@@ -96118,16 +96088,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Evropa",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
   },
   {
     "country": "Latinská Amerika",
@@ -96150,20 +96110,20 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Slovensko",
+    "country": "Řecko",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$20.99",
+    "price_usd": "$21.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
   },
   {
-    "country": "Řecko",
+    "country": "Slovensko",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$21.99",
+    "price_usd": "$20.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -256813,7 +256773,7 @@
     "country": "Chile",
     "data": "14 GB",
     "validity": "30",
-    "price_usd": "$42.00",
+    "price_usd": "$26.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -256833,7 +256793,7 @@
     "country": "Chile",
     "data": "7 GB",
     "validity": "30",
-    "price_usd": "$16.00",
+    "price_usd": "$17.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -262413,7 +262373,7 @@
     "country": "Chile",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$25.00",
+    "price_usd": "$34.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -273300,16 +273260,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Peru",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$11.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Německo",
     "data": "10 GB",
     "validity": "30",
@@ -273608,16 +273558,6 @@
     "validityRange": "8–14",
     "affiliate": "https://www.getnomad.app/albania-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Peru",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
   },
   {
     "country": "Mosambik",
@@ -274150,6 +274090,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Peru",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$7.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Uzbekistán",
     "data": "1 GB",
     "validity": "7",
@@ -274550,16 +274500,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Jižní Korea",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Papua-Nová Guinea",
     "data": "3 GB",
     "validity": "30",
@@ -274890,6 +274830,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Peru",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Čad",
     "data": "1 GB",
     "validity": "7",
@@ -275198,6 +275148,16 @@
     "validityRange": "8–14",
     "affiliate": "https://www.getnomad.app/slovenia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Peru",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Gambie",
@@ -277580,6 +277540,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Jižní Korea",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$6.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Norsko",
     "data": "3 GB",
     "validity": "30",
@@ -277828,16 +277798,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/guadeloupe-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$24.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
   },
   {
     "country": "Andorra",
@@ -280250,16 +280210,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Jižní Korea",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Andorra",
     "data": "1 GB",
     "validity": "7",
@@ -280367,16 +280317,6 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/jordan-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$11.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -281050,6 +280990,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Peru",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$25.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Uganda",
     "data": "3 GB",
     "validity": "30",
@@ -281128,6 +281078,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/papua-new-guinea-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$14.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Nikaragua",
@@ -281888,16 +281848,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/switzerland-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Peru",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$29.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
   },
   {
     "country": "Gambie",
@@ -283410,6 +283360,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Jižní Korea",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Burkina Faso",
     "data": "5 GB",
     "validity": "30",
@@ -283448,16 +283408,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/malta-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Peru",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Tunisko",
@@ -284100,6 +284050,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Peru",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Jihoafrická republika",
     "data": "2 GB",
     "validity": "10",
@@ -284260,6 +284220,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Jižní Korea",
+    "data": "20 GB",
+    "validity": "45",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "31–90",
+    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Trinidad a Tobago",
     "data": "20 GB",
     "validity": "30",
@@ -284288,16 +284258,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/switzerland-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$6.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Súdán",
@@ -284560,6 +284520,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Jižní Korea",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Slovensko",
     "data": "2 GB",
     "validity": "3",
@@ -284728,16 +284698,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/estonia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Peru",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$5.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/peru-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Kongo – Brazzaville",
@@ -285357,16 +285317,6 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/sweden-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$2.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/south-korea-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
   },
   {
