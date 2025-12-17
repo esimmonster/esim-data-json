@@ -11562,6 +11562,36 @@
   {
     "country": "Guam",
     "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$8.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Guam",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$18.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Guam",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$25.00",
+    "provider": "Airalo",
+    "validityRange": "8–14",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Guam",
+    "data": "Neomezená",
     "validity": "15",
     "price_usd": "$35.00",
     "provider": "Airalo",
@@ -11573,7 +11603,7 @@
     "country": "Guam",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$49.00",
+    "price_usd": "$62.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22902,7 +22932,7 @@
   {
     "country": "Libanon",
     "data": "1 GB",
-    "validity": "3",
+    "validity": "7",
     "price_usd": "$9.50",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -31008,16 +31038,6 @@
     "validityRange": "15–30",
     "affiliate": "https://yesim.app/country/guam/?partner_id=517",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Čína",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/china/?partner_id=517",
-    "dataRange": "≤1"
   },
   {
     "country": "Spojené arabské emiráty",
@@ -39910,16 +39930,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Austrálie",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/australia/?partner_id=517",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Rakousko",
     "data": "0.5 GB",
     "validity": "1",
@@ -39937,16 +39947,6 @@
     "provider": "Yesim",
     "validityRange": "1–7",
     "affiliate": "https://yesim.app/country/belgium/?partner_id=517",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Bosna a Hercegovina",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/bosnia-and-herzegovina/?partner_id=517",
     "dataRange": "≤1"
   },
   {
@@ -40110,16 +40110,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Kosovo",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/kosovo/?partner_id=517",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Lotyšsko",
     "data": "0.5 GB",
     "validity": "1",
@@ -40147,16 +40137,6 @@
     "provider": "Yesim",
     "validityRange": "1–7",
     "affiliate": "https://yesim.app/country/luxembourg/?partner_id=517",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Severní Makedonie",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/macedonia/?partner_id=517",
     "dataRange": "≤1"
   },
   {
@@ -40350,16 +40330,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Vietnam",
-    "data": "0.5 GB",
-    "validity": "1",
-    "price_usd": "€0.45",
-    "provider": "Yesim",
-    "validityRange": "1–7",
-    "affiliate": "https://yesim.app/country/vietnam/?partner_id=517",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Maledivy",
     "data": "Neomezená",
     "validity": "1",
@@ -40478,6 +40448,846 @@
     "validityRange": "91+",
     "affiliate": "https://yesim.app/global/global-package-esim/?partner_id=517",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Pákistán",
+    "data": "0.5 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/pakistan/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "0.5 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/macao/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bangladéš",
+    "data": "0.5 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/bangladesh/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Tunisko",
+    "data": "0.4 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/tunisia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Egypt",
+    "data": "0.4 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/egypt/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Alžírsko",
+    "data": "0.4 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/algeria/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Austrálie",
+    "data": "0.4 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/australia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Gruzie",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/georgia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Vietnam",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/vietnam/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bělorusko",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/belarus/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/bosnia-and-herzegovina/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Indie",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/india/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Faerské ostrovy",
+    "data": "0.3 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/faroe-islands/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Severní Makedonie",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/macedonia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kanada",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/canada/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jihoafrická republika",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/south-africa/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Ázerbájdžán",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/azerbaijan/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bahrajn",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/bahrain/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Omán",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/oman/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Brazílie",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/brazil/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Ghana",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/ghana/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kosovo",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/kosovo/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Andorra",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/andorra/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kambodža",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/cambodia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Ekvádor",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/ecuador/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Saúdská Arábie",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/saudi-arabia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Uruguay",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/uruguay/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Argentina",
+    "data": "0.2 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/argentina/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kostarika",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/costa-rica/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/south-korea/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Chile",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/chile/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Salvador",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/el-salvador/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Irák",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/iraq/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Peru",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/peru/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mexiko",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/mexico/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Francouzská Guyana",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/french-guiana/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Fidži",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/fiji/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Laos",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/laos/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čína",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/china/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Japonsko",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/japan/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Nigérie",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/nigeria/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Maroko",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/morocco/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/united-arab-emirates/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Keňa",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/kenya/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Madagaskar",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/madagascar/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Tanzanie",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/tanzania/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Nepál",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/nepal/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Uganda",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/uganda/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Gabon",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/gabon/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Čad",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/chad/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kongo – Brazzaville",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/congo/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kongo – Kinshasa",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/democratic-republic-of-the-congo/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Malawi",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/malawi/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Afghánistán",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/afghanistan/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Panama",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/panama/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Guadeloupe",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/guadeloupe/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mongolsko",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/mongolia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mauricius",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/mauritius/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Niger",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/niger/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Paraguay",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/paraguay/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jordánsko",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/jordan/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Antily",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/netherlands-antilles/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/cayman-islands/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jamajka",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/jamaica/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Montserrat",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/montserrat/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatý Kryštof a Nevis",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/saint-kitts-and-nevis/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatá Lucie",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/saint-lucia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatý Vincenc a Grenadiny",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/saint-vincent-and-the-grenadines/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Barbados",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/barbados/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Anguilla",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/anguilla/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Antigua a Barbuda",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/antigua-and-barbuda/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/turks-and-caicos-islands/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Britské Panenské ostrovy",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/british-virgin-islands/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Dominika",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/dominica/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Grenada",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/grenada/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Rwanda",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/rwanda/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Honduras",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/honduras/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bolívie",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/bolivia/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Guatemala",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/guatemala/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/dominican-republic/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Nikaragua",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/nicaragua/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Írán",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/iran/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bahamy",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/bahamas/?partner_id=517",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Maledivy",
+    "data": "0.1 GB",
+    "validity": "1",
+    "price_usd": "€0.45",
+    "provider": "Yesim",
+    "validityRange": "1–7",
+    "affiliate": "https://yesim.app/country/maldives/?partner_id=517",
+    "dataRange": "≤1"
   },
   {
     "country": "Černá Hora",
@@ -210031,16 +210841,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$24.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$33.00",
@@ -210048,6 +210848,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$24.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
+    "dataRange": "6–10"
   },
   {
     "country": "Vatikán",
@@ -224350,26 +225160,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Středoafrická republika",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Etiopie",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Guernsey",
     "data": "1 GB",
     "validity": "30",
@@ -224461,16 +225251,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$24.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$33.00",
@@ -224481,6 +225261,16 @@
   },
   {
     "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$24.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vatikán",
     "data": "Unlimited GB",
     "validity": "10",
     "price_usd": "$35.00",
@@ -224488,6 +225278,26 @@
     "validityRange": "8–14",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=6751b9729b4e0c678257c73c&affid=1176&oid=9",
     "dataRange": ""
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Etiopie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$20.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
+    "dataRange": "≤1"
   },
   {
     "country": "Evropa",
@@ -273770,6 +274580,46 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "1",
+    "price_usd": "$5.40",
+    "provider": "Airhub",
+    "validityRange": "1–7",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$5.70",
+    "provider": "Airhub",
+    "validityRange": "1–7",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$6.50",
+    "provider": "Airhub",
+    "validityRange": "1–7",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$7.20",
+    "provider": "Airhub",
+    "validityRange": "1–7",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Uzbekistán",
     "data": "10 GB",
     "validity": "30",
@@ -282340,16 +283190,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Tanzanie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$10.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Polsko",
     "data": "20 GB",
     "validity": "30",
@@ -282458,6 +283298,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/mauritania-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Uganda",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/uganda-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Sierra Leone",
@@ -283478,6 +284328,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/mexico-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Tanzanie",
+    "data": "20 GB",
+    "validity": "45",
+    "price_usd": "$45.00",
+    "provider": "Nomad",
+    "validityRange": "31–90",
+    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Turecko",
@@ -285310,16 +286170,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Zambie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Středoafrická republika",
     "data": "5 GB",
     "validity": "30",
@@ -285758,16 +286608,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/portugal-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Zambie",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Kuvajt",
@@ -286530,16 +287370,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Zambie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$8.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Indonésie",
     "data": "3 GB",
     "validity": "30",
@@ -287187,6 +288017,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/moldova-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Tanzanie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
   },
   {
@@ -288140,16 +288980,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Tanzanie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$37.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Uzbekistán",
     "data": "3 GB",
     "validity": "30",
@@ -288560,16 +289390,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Tanzanie",
-    "data": "20 GB",
-    "validity": "45",
-    "price_usd": "$59.00",
-    "provider": "Nomad",
-    "validityRange": "31–90",
-    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Egypt",
     "data": "2 GB",
     "validity": "7",
@@ -288908,16 +289728,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Zambie",
-    "data": "20 GB",
-    "validity": "45",
-    "price_usd": "$57.00",
-    "provider": "Nomad",
-    "validityRange": "31–90",
-    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
   },
   {
     "country": "Lichtenštejnsko",
@@ -289540,16 +290350,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Uganda",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$49.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/uganda-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Samoa",
     "data": "1 GB",
     "validity": "7",
@@ -289708,16 +290508,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/poland-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Filipíny",
@@ -290508,16 +291298,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/costa-rica-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Tanzanie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$23.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Fidži",
@@ -291590,6 +292370,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Tanzanie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$6.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Mexiko",
     "data": "1 GB",
     "validity": "7",
@@ -291970,6 +292760,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Zambie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Rusko",
     "data": "2 GB",
     "validity": "7",
@@ -292210,6 +293010,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Zambie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$6.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Srí Lanka",
     "data": "10 GB",
     "validity": "30",
@@ -292228,6 +293038,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/slovenia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Zambie",
+    "data": "20 GB",
+    "validity": "45",
+    "price_usd": "$45.00",
+    "provider": "Nomad",
+    "validityRange": "31–90",
+    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Bahamy",
@@ -292357,6 +293177,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Tanzanie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -293160,6 +293990,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Tanzanie",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/tanzania-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Súdán",
     "data": "1 GB",
     "validity": "7",
@@ -293698,6 +294538,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/cuba-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Zambie",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/zambia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Aruba",
@@ -296900,16 +297750,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Karibik",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/caribbean-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Balkán",
     "data": "10 GB",
     "validity": "30",
@@ -297307,6 +298147,16 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/north-america-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Karibik",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$8.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/caribbean-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
   },
   {
