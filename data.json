@@ -45350,6 +45350,26 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Kostarika",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-50-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-50-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Indonésie",
     "data": "25 GB",
     "validity": "30",
@@ -45830,6 +45850,26 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Spojené státy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$17.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-20-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kostarika",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$17.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-20-gb-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Arménie",
     "data": "20 GB",
     "validity": "30",
@@ -45868,6 +45908,16 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-china-korea-japan-10-gb-esim#esimmonster",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "100 GB",
+    "validity": "30",
+    "price_usd": "$69.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-100-gb-esim#esimmonster",
+    "dataRange": "50+"
   },
   {
     "country": "Čína",
@@ -49740,6 +49790,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Spojené státy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-10-gb-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Filipíny",
     "data": "10 GB",
     "validity": "30",
@@ -49747,6 +49807,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/airalo-philippines-10-gb-esim#esimmonster",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kostarika",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-10-gb-esim#esimmonster",
     "dataRange": "6–10"
   },
   {
@@ -50117,16 +50187,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/roamvault-algeria-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Kostarika",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$21.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-20-gb-esim#esimmonster",
     "dataRange": "11–20"
   },
   {
@@ -51420,16 +51480,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Spojené státy",
-    "data": "100 GB",
-    "validity": "30",
-    "price_usd": "$82.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-100-gb-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
     "country": "Saúdská Arábie",
     "data": "50 GB",
     "validity": "30",
@@ -52180,16 +52230,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené státy",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$52.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-50-gb-esim#esimmonster",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Alžírsko",
     "data": "20 GB",
     "validity": "30",
@@ -52327,16 +52367,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-asia-12-countries-20-gb-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-20-gb-esim#esimmonster",
     "dataRange": "11–20"
   },
   {
@@ -53057,16 +53087,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/tsimtech-asia-12-countries-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Kostarika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$13.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-10-gb-esim#esimmonster",
     "dataRange": "6–10"
   },
   {
@@ -54310,16 +54330,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Spojené státy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$15.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Katar",
     "data": "20 GB",
     "validity": "30",
@@ -54890,6 +54900,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené státy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Hongkong – ZAO Číny",
     "data": "5 GB",
     "validity": "30",
@@ -54897,6 +54917,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-hong-kong-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kostarika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-5-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -56827,16 +56857,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/3-cambodia-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kostarika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$8.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-costa-rica-5-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -59627,16 +59647,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/nextlink-saudi-arabia-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/esimgo-usa-5-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
