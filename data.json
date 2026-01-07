@@ -20582,7 +20582,7 @@
   {
     "country": "Austrálie",
     "data": "1 GB",
-    "validity": "7",
+    "validity": "3",
     "price_usd": "$4.50",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -20591,9 +20591,29 @@
   },
   {
     "country": "Austrálie",
-    "data": "2 GB",
+    "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$10.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$10.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "5 GB",
     "validity": "15",
-    "price_usd": "$8.00",
+    "price_usd": "$15.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -20601,11 +20621,11 @@
   },
   {
     "country": "Austrálie",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$10.50",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$14.50",
     "provider": "Airalo",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
   },
@@ -20622,6 +20642,26 @@
   {
     "country": "Austrálie",
     "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$23.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Austrálie",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$24.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Austrálie",
+    "data": "10 GB",
     "validity": "30",
     "price_usd": "$25.50",
     "provider": "Airalo",
@@ -20632,12 +20672,72 @@
   {
     "country": "Austrálie",
     "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$47.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Austrálie",
+    "data": "20 GB",
     "validity": "30",
     "price_usd": "$49.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Austrálie",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$11.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Austrálie",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$19.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Austrálie",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$99.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Austrálie",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$27.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Austrálie",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "Airalo",
+    "validityRange": "8–14",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Omán",
@@ -22113,16 +22213,6 @@
     "country": "Kongo – Kinshasa",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$7.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kongo – Kinshasa",
-    "data": "1 GB",
-    "validity": "7",
     "price_usd": "$7.50",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -105600,86 +105690,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$21.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "$28.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$44.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$52.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Alžírsko",
     "data": "1 GB",
     "validity": "3",
@@ -108261,13 +108271,13 @@
   },
   {
     "country": "Asie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$61.99",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$69.99",
     "provider": "Global YO",
-    "validityRange": "15–30",
+    "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
+    "dataRange": "21–50"
   },
   {
     "country": "Kuvajt",
@@ -108393,7 +108403,7 @@
     "country": "Asie",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$26.99",
+    "price_usd": "$19.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -108860,6 +108870,36 @@
     "dataRange": "Neomezená"
   },
   {
+    "country": "Asie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Asie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$61.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Asie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$26.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Evropa",
     "data": "100 GB",
     "validity": "60",
@@ -108978,36 +109018,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Asie",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$69.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Asie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Asie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Namibie",
@@ -111840,7 +111850,37 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Kazachstán",
+    "country": "Kuvajt",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Švédsko",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$49.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Uruguay",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$15.69",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Chorvatsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
@@ -111860,27 +111900,7 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Kuvajt",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$49.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Slovensko",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$42.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Černá Hora",
+    "country": "Estonsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
@@ -111900,7 +111920,7 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Estonsko",
+    "country": "Irsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
@@ -111920,30 +111940,30 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Tunisko",
+    "country": "Slovensko",
     "data": "1 GB",
     "validity": "30",
-    "price_usd": "$62.99",
+    "price_usd": "$42.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Evropa",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Nový Zéland",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$39.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$42.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -111960,10 +111980,10 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Nizozemsko",
+    "country": "Tunisko",
     "data": "1 GB",
     "validity": "30",
-    "price_usd": "$49.99",
+    "price_usd": "$62.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -111980,17 +112000,7 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Evropa",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Maďarsko",
+    "country": "Nizozemsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$49.99",
@@ -112000,7 +112010,17 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Slovinsko",
+    "country": "Černá Hora",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$42.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bulharsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
@@ -112020,6 +112040,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Finsko",
     "data": "1 GB",
     "validity": "30",
@@ -112028,6 +112058,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Severní Amerika",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Afrika",
@@ -112044,36 +112084,6 @@
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$10.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Blízký východ",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Evropa",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Uruguay",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$15.69",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112104,6 +112114,16 @@
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Čína",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$8.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112150,7 +112170,7 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Čína",
+    "country": "Malajsie",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$8.99",
@@ -112160,7 +112180,7 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Malajsie",
+    "country": "Singapur",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$8.99",
@@ -112180,10 +112200,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Irsko",
+    "country": "Maďarsko",
     "data": "1 GB",
     "validity": "30",
-    "price_usd": "$42.99",
+    "price_usd": "$49.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112220,24 +112240,24 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Singapur",
-    "data": "5 GB",
+    "country": "Aruba",
+    "data": "3 GB",
     "validity": "15",
-    "price_usd": "$8.99",
+    "price_usd": "$18.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
   },
   {
-    "country": "Severní Amerika",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
+    "country": "Dánsko",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$42.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "≤1"
   },
   {
     "country": "Guernsey",
@@ -112270,10 +112290,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Aruba",
+    "country": "Bolívie",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$18.99",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112290,17 +112310,17 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Bolívie",
+    "country": "Brunej",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$10.99",
+    "price_usd": "$13.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
   },
   {
-    "country": "Dánsko",
+    "country": "Slovinsko",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
@@ -112340,14 +112360,14 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Švédsko",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$49.99",
+    "country": "Blízký východ",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$11.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
+    "dataRange": "2–5"
   },
   {
     "country": "Lesotho",
@@ -112400,32 +112420,12 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Chorvatsko",
+    "country": "Kazachstán",
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
     "provider": "Global YO",
     "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Brunej",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanada",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$24.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
   },
@@ -112490,6 +112490,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Evropa",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$44.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Kazachstán",
     "data": "1 GB",
     "validity": "7",
@@ -112500,10 +112510,10 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Gruzie",
-    "data": "5 GB",
+    "country": "Latinská Amerika",
+    "data": "3 GB",
     "validity": "15",
-    "price_usd": "$16.99",
+    "price_usd": "$11.59",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112518,6 +112528,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Gruzie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Moldavsko",
@@ -112540,16 +112560,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Afrika",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$59.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Omán",
     "data": "1 GB",
     "validity": "7",
@@ -112568,16 +112578,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Chile",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$15.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
   },
   {
     "country": "Panama",
@@ -112620,16 +112620,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Evropa",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Bosna a Hercegovina",
     "data": "1 GB",
     "validity": "7",
@@ -112638,6 +112628,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Afrika",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$48.59",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Arménie",
@@ -112670,16 +112670,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Evropa",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$44.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Argentina",
     "data": "1 GB",
     "validity": "7",
@@ -112690,10 +112680,10 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Latinská Amerika",
-    "data": "3 GB",
+    "country": "Chile",
+    "data": "5 GB",
     "validity": "15",
-    "price_usd": "$11.59",
+    "price_usd": "$15.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113060,6 +113050,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Kanada",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$24.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Singapur",
     "data": "10 GB",
     "validity": "30",
@@ -113140,26 +113140,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Afrika",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$48.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jersey",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Severní Amerika",
     "data": "5 GB",
     "validity": "15",
@@ -113180,20 +113160,10 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Ostrov Man",
+    "country": "Jersey",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$15.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Bolívie",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$14.99",
+    "price_usd": "$11.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113230,6 +113200,26 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Ostrov Man",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$15.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Bolívie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Srí Lanka",
     "data": "5 GB",
     "validity": "15",
@@ -113244,6 +113234,16 @@
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Afrika",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$59.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113300,6 +113300,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Evropa",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$13.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Irák",
     "data": "1 GB",
     "validity": "7",
@@ -113320,17 +113330,7 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Severní Amerika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$22.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Bolívie",
+    "country": "Martinik",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$9.99",
@@ -113340,154 +113340,14 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Maroko",
+    "country": "Brunej",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$22.99",
+    "price_usd": "$27.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Srí Lanka",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Singapur",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Uruguay",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$43.49",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Guernsey",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Malajsie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Japonsko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Gruzie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$22.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Chile",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Thajsko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$14.59",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Karibik",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$63.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vietnam",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$25.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Evropa",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$14.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Čína",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Evropa",
@@ -113520,26 +113380,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Ostrov Man",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Brunej",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Jersey",
     "data": "10 GB",
     "validity": "30",
@@ -113560,6 +113400,166 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Severní Amerika",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Chile",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Ostrov Man",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Maroko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Bolívie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Srí Lanka",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Guernsey",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Singapur",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Evropa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Malajsie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Karibik",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$63.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Čína",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$25.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Thajsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$14.59",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Mayotte",
     "data": "10 GB",
     "validity": "30",
@@ -113570,20 +113570,50 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Martinik",
+    "country": "Uruguay",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$9.99",
+    "price_usd": "$43.49",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
   },
   {
-    "country": "Spojené státy",
+    "country": "Gruzie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Severní Amerika",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$23.99",
+    "price_usd": "$37.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Gruzie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Martinik",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$27.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113600,26 +113630,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Latinská Amerika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$37.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Ostrov Man",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Evropa",
     "data": "20 GB",
     "validity": "30",
@@ -113630,10 +113640,20 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Severní Amerika",
+    "country": "Spojené státy",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$37.99",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$25.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113660,20 +113680,20 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Uruguay",
+    "country": "Ostrov Man",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$69.99",
+    "price_usd": "$32.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
   },
   {
-    "country": "Gruzie",
+    "country": "Uruguay",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$35.99",
+    "price_usd": "$69.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113690,24 +113710,14 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Japonsko",
-    "data": "20 GB",
+    "country": "Latinská Amerika",
+    "data": "10 GB",
     "validity": "30",
-    "price_usd": "$25.99",
+    "price_usd": "$37.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Martinik",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$27.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
+    "dataRange": "6–10"
   },
   {
     "country": "Evropa",
@@ -203871,6 +203881,26 @@
   },
   {
     "country": "Svatý Bartoloměj",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d23ad676ab373445754&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$39.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d232b8f4ee8c2515f12&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatý Bartoloměj",
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$19.00",
@@ -203898,6 +203928,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d25cd0ed90489db640f&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=6751ba599b4e0c678257c79a&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Albánie",
@@ -210591,6 +210631,26 @@
   },
   {
     "country": "Svatý Bartoloměj",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d23ad676ab373445754&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$39.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d232b8f4ee8c2515f12&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatý Bartoloměj",
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$19.00",
@@ -210618,6 +210678,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d25cd0ed90489db640f&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=6751ba599b4e0c678257c79a&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Svatý Kryštof a Nevis",
@@ -210723,7 +210793,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$15.00",
+    "price_usd": "$8.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d232b8f4ee8c2515ecc&affid=1176&oid=9",
@@ -210733,7 +210803,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$8.00",
+    "price_usd": "$6.50",
     "provider": "aloSIM",
     "validityRange": "1–7",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d232b8f4ee8c2515eed&affid=1176&oid=9",
@@ -210743,7 +210813,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$21.00",
+    "price_usd": "$15.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d23ad676ab3734457ce&affid=1176&oid=9",
@@ -210751,9 +210821,19 @@
   },
   {
     "country": "Svatý Martin (Francie)",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$38.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d23ad676ab3734457df&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Svatý Martin (Francie)",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$40.00",
+    "price_usd": "$29.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d242b8f4ee8c2515fdf&affid=1176&oid=9",
@@ -210763,11 +210843,21 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$32.00",
+    "price_usd": "$22.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d25cd0ed90489db63ee&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Martin (Francie)",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/saint-martin-esim?plan_id=6751ba599b4e0c678257c768&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Svatý Vincenc a Grenadiny",
@@ -222460,6 +222550,46 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Monako",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$20.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/monaco-esim?plan_id=61f05b6e1c556d344f97bc4b&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Monako",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$40.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/monaco-esim?plan_id=645d341c1837b59e030064f9&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Monako",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$28.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/monaco-esim?plan_id=645d341c1837b59e03006524&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Monako",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/monaco-esim?plan_id=645d341cda9d15e55322c571&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Mongolsko",
     "data": "1 GB",
     "validity": "7",
@@ -222688,6 +222818,46 @@
     "validityRange": "1–7",
     "affiliate": "https://alosim.com/nepal-esim?plan_id=61f05cf21c556db9fa97bc6b&affid=1176&oid=9",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Nepál",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$23.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nepal-esim?plan_id=61f05cfd1c556dcd7997bc6e&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nepal-esim?plan_id=61f05d091c556dfcf997bc71&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nepal-esim?plan_id=61f05d121c556d4e7097bc74&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Nepál",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$16.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nepal-esim?plan_id=64500d25cd0ed90489db6388&affid=1176&oid=9",
+    "dataRange": "2–5"
   },
   {
     "country": "Nizozemsko",
@@ -223191,6 +223361,26 @@
   },
   {
     "country": "Papua-Nová Guinea",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$20.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/papua-new-guinea-esim?plan_id=64500d232b8f4ee8c2515f6d&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$15.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/papua-new-guinea-esim?plan_id=64500d23ad676ab3734457f3&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Papua-Nová Guinea",
     "data": "1 GB",
     "validity": "7",
     "price_usd": "$9.50",
@@ -223198,6 +223388,26 @@
     "validityRange": "1–7",
     "affiliate": "https://alosim.com/papua-new-guinea-esim?plan_id=64500d242b8f4ee8c2515ff1&affid=1176&oid=9",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$30.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/papua-new-guinea-esim?plan_id=64500d25cd0ed90489db6332&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$50.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/papua-new-guinea-esim?plan_id=64500d25cd0ed90489db6335&affid=1176&oid=9",
+    "dataRange": "6–10"
   },
   {
     "country": "Paraguay",
@@ -223883,7 +224093,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$15.00",
+    "price_usd": "$8.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d232b8f4ee8c2515ecc&affid=1176&oid=9",
@@ -223893,7 +224103,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$8.00",
+    "price_usd": "$6.50",
     "provider": "aloSIM",
     "validityRange": "1–7",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d232b8f4ee8c2515eed&affid=1176&oid=9",
@@ -223903,7 +224113,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$21.00",
+    "price_usd": "$15.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d23ad676ab3734457ce&affid=1176&oid=9",
@@ -223911,9 +224121,19 @@
   },
   {
     "country": "Svatý Martin (Francie)",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$38.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d23ad676ab3734457df&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Svatý Martin (Francie)",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$40.00",
+    "price_usd": "$29.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d242b8f4ee8c2515fdf&affid=1176&oid=9",
@@ -223923,11 +224143,21 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$32.00",
+    "price_usd": "$22.00",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-martin-esim?plan_id=64500d25cd0ed90489db63ee&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Martin (Francie)",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/saint-martin-esim?plan_id=6751ba599b4e0c678257c768&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Svatý Vincenc a Grenadiny",
@@ -224841,9 +225071,19 @@
   },
   {
     "country": "Tádžikistán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/tajikistan-esim?plan_id=64500d23ad676ab37344574e&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Tádžikistán",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$11.00",
+    "price_usd": "$10.50",
     "provider": "aloSIM",
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/tajikistan-esim?plan_id=64500d23ad676ab3734457e2&affid=1176&oid=9",
@@ -224868,6 +225108,26 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/tajikistan-esim?plan_id=64500d242b8f4ee8c2515fa3&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Tádžikistán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$28.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/tajikistan-esim?plan_id=64500d25cd0ed90489db63cf&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Tádžikistán",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/tajikistan-esim?plan_id=6751ba599b4e0c678257c7c3&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Thajsko",
@@ -226091,6 +226351,26 @@
   },
   {
     "country": "Svatý Bartoloměj",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d23ad676ab373445754&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$39.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d232b8f4ee8c2515f12&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatý Bartoloměj",
     "data": "3 GB",
     "validity": "30",
     "price_usd": "$19.00",
@@ -226118,6 +226398,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=64500d25cd0ed90489db640f&affid=1176&oid=9",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Bartoloměj",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/saint-barthelemy-esim?plan_id=6751ba599b4e0c678257c79a&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Belize",
@@ -284650,16 +284940,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Ekvádor",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$29.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Tchaj-wan",
     "data": "20 GB",
     "validity": "30",
@@ -285627,16 +285907,6 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/austria-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Ekvádor",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -287490,16 +287760,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Nový Zéland",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$23.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/new-zealand-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Nauru",
     "data": "5 GB",
     "validity": "30",
@@ -287508,6 +287768,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/nauru-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$23.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/new-zealand-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Belgie",
@@ -288510,16 +288780,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Ekvádor",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Portugalsko",
     "data": "2 GB",
     "validity": "5",
@@ -288708,6 +288968,16 @@
     "validityRange": "1–7",
     "affiliate": "https://www.getnomad.app/japan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Ekvádor",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$28.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
   },
   {
     "country": "Ostrov Man",
@@ -289458,6 +289728,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/georgia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Ekvádor",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$9.50",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Nizozemsko",
@@ -292700,6 +292980,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Ekvádor",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$16.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Rusko",
     "data": "5 GB",
     "validity": "30",
@@ -294820,6 +295110,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Ekvádor",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$5.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Rakousko",
     "data": "5 GB",
     "validity": "30",
@@ -294998,16 +295298,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getnomad.app/mali-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Ekvádor",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$6.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getnomad.app/ecuador-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Gruzie",
@@ -345120,26 +345410,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Burundi",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/burundi/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Burundi",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/burundi/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kambodža",
     "data": "3 GB",
     "validity": "5",
@@ -347680,26 +347950,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Kokosové ostrovy",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/cocos-keeling-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kokosové ostrovy",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/cocos-keeling-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Kolumbie",
     "data": "1 GB",
     "validity": "7",
@@ -347848,26 +348098,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/colombia/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Komory",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/comoros/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Komory",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/comoros/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Kongo – Brazzaville",
@@ -348068,26 +348298,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/congo/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Cookovy ostrovy",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/cook-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Cookovy ostrovy",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/cook-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Kostarika",
@@ -349990,26 +350200,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Džibutsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/djibouti/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Džibutsko",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/djibouti/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Dominika",
     "data": "1 GB",
     "validity": "10",
@@ -350988,26 +351178,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/equatorial-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Eritrea",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/eritrea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Eritrea",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/eritrea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Estonsko",
@@ -363620,26 +363790,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Libye",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/libya/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Libye",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/libya/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Lichtenštejnsko",
     "data": "1 GB",
     "validity": "7",
@@ -366320,26 +366470,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Marshallovy ostrovy",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/marshall-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Marshallovy ostrovy",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/marshall-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Martinik",
     "data": "1 GB",
     "validity": "7",
@@ -367678,26 +367808,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/mexico/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Mikronésie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/micronesia/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Mikronésie",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/micronesia/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Blízký východ",
@@ -369420,6 +369530,46 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Nauru",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$22.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/nauru/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Nauru",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$35.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/nauru/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Nauru",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$40.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/nauru/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Nauru",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$55.00",
+    "provider": "Roamify",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getroamify.com/esim/nauru/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Nepál",
     "data": "1 GB",
     "validity": "7",
@@ -370730,46 +370880,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Niue",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/niue/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Niue",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/niue/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Norfolk",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/norfolk-island/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Norfolk",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/norfolk-island/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Severní Amerika",
     "data": "1 GB",
     "validity": "7",
@@ -372070,6 +372180,46 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Oceánie",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$22.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/oceania/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Oceánie",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$35.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/oceania/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Oceánie",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$40.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/oceania/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Oceánie",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$55.00",
+    "provider": "Roamify",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getroamify.com/esim/oceania/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Omán",
     "data": "1 GB",
     "validity": "7",
@@ -372570,26 +372720,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Palau",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/palau/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Palau",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/palau/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Palestinská území",
     "data": "1 GB",
     "validity": "7",
@@ -373028,6 +373158,46 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/papua-new-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$22.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/papua-new-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "Neomezená",
+    "validity": "5",
+    "price_usd": "$35.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/papua-new-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$40.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/papua-new-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Papua-Nová Guinea",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$55.00",
+    "provider": "Roamify",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getroamify.com/esim/papua-new-guinea/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Paraguay",
@@ -376110,26 +376280,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Svatá Helena",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/saint-helena-ascension-and-tristan-da-cunha/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Svatá Helena",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/saint-helena-ascension-and-tristan-da-cunha/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Svatý Kryštof a Nevis",
     "data": "1 GB",
     "validity": "7",
@@ -376803,7 +376953,7 @@
     "country": "Samoa",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$4.50",
+    "price_usd": "$5.50",
     "provider": "Roamify",
     "validityRange": "1–7",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376813,7 +376963,7 @@
     "country": "Samoa",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$6.50",
+    "price_usd": "$8.50",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376823,7 +376973,7 @@
     "country": "Samoa",
     "data": "3 GB",
     "validity": "15",
-    "price_usd": "$11.00",
+    "price_usd": "$12.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376833,7 +376983,7 @@
     "country": "Samoa",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$12.00",
+    "price_usd": "$13.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376863,7 +377013,7 @@
     "country": "Samoa",
     "data": "10 GB",
     "validity": "15",
-    "price_usd": "$32.00",
+    "price_usd": "$28.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376873,7 +377023,7 @@
     "country": "Samoa",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$33.00",
+    "price_usd": "$30.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376881,29 +377031,9 @@
   },
   {
     "country": "Samoa",
-    "data": "15 GB",
-    "validity": "15",
-    "price_usd": "$46.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Samoa",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$48.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Samoa",
     "data": "20 GB",
     "validity": "15",
-    "price_usd": "$62.00",
+    "price_usd": "$42.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376913,67 +377043,17 @@
     "country": "Samoa",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$65.00",
+    "price_usd": "$44.00",
     "provider": "Roamify",
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Samoa",
-    "data": "30 GB",
-    "validity": "15",
-    "price_usd": "$85.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Samoa",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$90.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Samoa",
-    "data": "50 GB",
-    "validity": "15",
-    "price_usd": "$130.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Samoa",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$135.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Samoa",
-    "data": "Neomezená",
-    "validity": "1",
-    "price_usd": "$10.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "Neomezená"
   },
   {
     "country": "Samoa",
     "data": "Neomezená",
     "validity": "3",
-    "price_usd": "$25.00",
+    "price_usd": "$22.00",
     "provider": "Roamify",
     "validityRange": "1–7",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -376993,7 +377073,7 @@
     "country": "Samoa",
     "data": "Neomezená",
     "validity": "7",
-    "price_usd": "$45.00",
+    "price_usd": "$40.00",
     "provider": "Roamify",
     "validityRange": "1–7",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
@@ -377006,46 +377086,6 @@
     "price_usd": "$55.00",
     "provider": "Roamify",
     "validityRange": "8–14",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Samoa",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Samoa",
-    "data": "Neomezená",
-    "validity": "20",
-    "price_usd": "$90.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Samoa",
-    "data": "Neomezená",
-    "validity": "25",
-    "price_usd": "$110.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Samoa",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$140.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/samoa/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "Neomezená"
   },
@@ -377258,26 +377298,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/san-marino/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "50+"
-  },
-  {
-    "country": "Svatý Tomáš a Princův ostrov",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/sao-tome-and-principe/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Svatý Tomáš a Princův ostrov",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/sao-tome-and-principe/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Saúdská Arábie",
@@ -379398,26 +379418,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/solomon-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Somálsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/somalia/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Somálsko",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/somalia/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Jihoafrická republika",
@@ -382050,26 +382050,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Sýrie",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/syria/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Sýrie",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/syria/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Tchaj-wan",
     "data": "3 GB",
     "validity": "7",
@@ -383231,13 +383211,43 @@
   },
   {
     "country": "Tonga",
-    "data": "5 GB",
-    "validity": "30",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$22.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/tonga/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tonga",
+    "data": "Neomezená",
+    "validity": "5",
     "price_usd": "$35.00",
     "provider": "Roamify",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://www.getroamify.com/esim/tonga/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tonga",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$40.00",
+    "provider": "Roamify",
+    "validityRange": "1–7",
+    "affiliate": "https://www.getroamify.com/esim/tonga/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Tonga",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$55.00",
+    "provider": "Roamify",
+    "validityRange": "8–14",
+    "affiliate": "https://www.getroamify.com/esim/tonga/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Trinidad a Tobago",
@@ -383890,26 +383900,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Turkmenistán",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/turkmenistan/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Turkmenistán",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/turkmenistan/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Turks a Caicos",
     "data": "1 GB",
     "validity": "7",
@@ -384028,26 +384018,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.getroamify.com/esim/turks-and-caicos-islands/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
     "dataRange": "21–50"
-  },
-  {
-    "country": "Tuvalu",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$70.00",
-    "provider": "Roamify",
-    "validityRange": "1–7",
-    "affiliate": "https://www.getroamify.com/esim/tuvalu/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Tuvalu",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$150.00",
-    "provider": "Roamify",
-    "validityRange": "15–30",
-    "affiliate": "https://www.getroamify.com/esim/tuvalu/?referrer=cFmoK97qHThA6y0JJFJ0PW1NdHT2&utm_source=monster&utm_medium=affiliate&utm_campaign=monster_offer&utm_term=exclusive_deal&discount_code=MON5",
-    "dataRange": "2–5"
   },
   {
     "country": "Uganda",
