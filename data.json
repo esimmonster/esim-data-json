@@ -4101,38 +4101,8 @@
   },
   {
     "country": "Jihoafrická republika",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$4.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jihoafrická republika",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$8.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "3 GB",
-    "validity": "3",
-    "price_usd": "$9.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "3 GB",
-    "validity": "7",
     "price_usd": "$9.00",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -4152,29 +4122,9 @@
   {
     "country": "Jihoafrická republika",
     "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$12.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "5 GB",
-    "validity": "15",
+    "validity": "7",
     "price_usd": "$13.00",
     "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$11.50",
-    "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
@@ -4182,27 +4132,7 @@
   {
     "country": "Jihoafrická republika",
     "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$12.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "5 GB",
-    "validity": "30",
+    "validity": "15",
     "price_usd": "$13.50",
     "provider": "Airalo",
     "validityRange": "15–30",
@@ -4213,7 +4143,7 @@
     "country": "Jihoafrická republika",
     "data": "10 GB",
     "validity": "7",
-    "price_usd": "$19.00",
+    "price_usd": "$23.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -4223,36 +4153,6 @@
     "country": "Jihoafrická republika",
     "data": "10 GB",
     "validity": "15",
-    "price_usd": "$20.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "10 GB",
-    "validity": "15",
-    "price_usd": "$22.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$22.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "10 GB",
-    "validity": "30",
     "price_usd": "$24.00",
     "provider": "Airalo",
     "validityRange": "15–30",
@@ -4261,49 +4161,9 @@
   },
   {
     "country": "Jihoafrická republika",
-    "data": "10 GB",
-    "validity": "7",
-    "price_usd": "$20.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$35.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$37.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Jihoafrická republika",
     "data": "20 GB",
     "validity": "15",
     "price_usd": "$38.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$40.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -4328,26 +4188,6 @@
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$49.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Jihoafrická republika",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$55.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "21–50"
   },
   {
     "country": "Jihoafrická republika",
@@ -213271,16 +213111,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$33.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Vatikán",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$24.00",
@@ -213288,6 +213118,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Vatikán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$33.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
+    "dataRange": "11–20"
   },
   {
     "country": "Vatikán",
@@ -227830,6 +227670,26 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Středoafrická republika",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$12.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Etiopie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$20.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Guernsey",
     "data": "1 GB",
     "validity": "30",
@@ -227921,16 +227781,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$33.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Vatikán",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$24.00",
@@ -227941,6 +227791,16 @@
   },
   {
     "country": "Vatikán",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$33.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vatikán",
     "data": "Unlimited GB",
     "validity": "10",
     "price_usd": "$35.00",
@@ -227948,26 +227808,6 @@
     "validityRange": "8–14",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=6751b9729b4e0c678257c73c&affid=1176&oid=9",
     "dataRange": ""
-  },
-  {
-    "country": "Středoafrická republika",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Etiopie",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
-    "dataRange": "≤1"
   },
   {
     "country": "Evropa",
@@ -265660,6 +265500,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Kanada",
+    "data": "17 GB",
+    "validity": "30",
+    "price_usd": "$32.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Portugalsko",
     "data": "7 GB",
     "validity": "30",
@@ -265888,6 +265738,16 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Kanada",
+    "data": "45 GB",
+    "validity": "30",
+    "price_usd": "$37.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "21–50"
   },
   {
     "country": "Kazachstán",
@@ -266334,6 +266194,26 @@
     "data": "40 GB",
     "validity": "30",
     "price_usd": "$47.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Kanada",
+    "data": "55 GB",
+    "validity": "30",
+    "price_usd": "$45.49",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Kanada",
+    "data": "27 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -274880,6 +274760,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Kanada",
+    "data": "75 GB",
+    "validity": "30",
+    "price_usd": "$50.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "50+"
+  },
+  {
     "country": "Fidži",
     "data": "1 GB",
     "validity": "7",
@@ -277848,6 +277738,26 @@
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Kanada",
+    "data": "Neomezená",
+    "validity": "10",
+    "price_usd": "$30.00",
+    "provider": "Airhub",
+    "validityRange": "8–14",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Kanada",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$35.00",
+    "provider": "Airhub",
+    "validityRange": "15–30",
+    "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Uzbekistán",
@@ -286140,6 +286050,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Samoa",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$9.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Island",
     "data": "2 GB",
     "validity": "7",
@@ -286317,6 +286237,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/tajikistan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Samoa",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$22.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -286738,16 +286668,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/malta-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Samoa",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$27.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Jižní Súdán",
@@ -289568,6 +289488,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/latvia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Samoa",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$32.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Nizozemsko",
@@ -294010,6 +293940,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Samoa",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$57.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Papua-Nová Guinea",
     "data": "5 GB",
     "validity": "30",
@@ -294057,16 +293997,6 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/luxembourg-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Samoa",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$19.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -294838,16 +294768,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/oman-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Samoa",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$9.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Švýcarsko",
@@ -295978,16 +295898,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/estonia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Samoa",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$45.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/samoa-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
   },
   {
     "country": "Irsko",
