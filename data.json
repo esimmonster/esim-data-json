@@ -252930,16 +252930,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Japonsko",
-    "data": "40 GB",
-    "validity": "30",
-    "price_usd": "$34.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Spojené království",
     "data": "15 GB",
     "validity": "30",
@@ -253038,6 +253028,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Japonsko",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$34.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
   },
   {
     "country": "Turecko",
@@ -254051,16 +254051,6 @@
   },
   {
     "country": "Kostarika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kostarika",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$33.00",
@@ -254130,6 +254120,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Kostarika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$20.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Saúdská Arábie",
     "data": "3 GB",
     "validity": "30",
@@ -254178,226 +254178,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Anguilla",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Antigua a Barbuda",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Aruba",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Bahamy",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Barbados",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Britské Panenské ostrovy",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Kajmanské ostrovy",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Curaçao",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Dominika",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Grenada",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Honduras",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jamajka",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Montserrat",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Antily",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Portoriko",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Svatý Kryštof a Nevis",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Svatá Lucie",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Svatý Vincenc a Grenadiny",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "San Marino",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Americké Panenské ostrovy",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$10.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
   },
   {
     "country": "Indie",
@@ -254481,6 +254261,226 @@
   },
   {
     "country": "Anguilla",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Antigua a Barbuda",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Aruba",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bahamy",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Barbados",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Britské Panenské ostrovy",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Curaçao",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Dominika",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Grenada",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Honduras",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jamajka",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Montserrat",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Antily",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Portoriko",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatý Kryštof a Nevis",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatá Lucie",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Svatý Vincenc a Grenadiny",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "San Marino",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Americké Panenské ostrovy",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$10.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Anguilla",
     "data": "3 GB",
     "validity": "7",
     "price_usd": "$21.00",
@@ -255020,6 +255020,446 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Anguilla",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Antigua a Barbuda",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Aruba",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Bahamy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Barbados",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Britské Panenské ostrovy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Curaçao",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Dominika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Grenada",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Honduras",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Montserrat",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Antily",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Portoriko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Kryštof a Nevis",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Svatá Lucie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Svatý Vincenc a Grenadiny",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "San Marino",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Americké Panenské ostrovy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$21.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Anguilla",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Antigua a Barbuda",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Aruba",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Bahamy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Barbados",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Britské Panenské ostrovy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Curaçao",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Dominika",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Dominikánská republika",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Grenada",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Honduras",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Montserrat",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Antily",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Portoriko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatý Kryštof a Nevis",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatá Lucie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Svatý Vincenc a Grenadiny",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "San Marino",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Turks a Caicos",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Americké Panenské ostrovy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Austrálie",
     "data": "20 GB",
     "validity": "30",
@@ -255038,446 +255478,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Anguilla",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Antigua a Barbuda",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Aruba",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Bahamy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Barbados",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Britské Panenské ostrovy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kajmanské ostrovy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Curaçao",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Dominika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Grenada",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Honduras",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jamajka",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Montserrat",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Antily",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Portoriko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Svatý Kryštof a Nevis",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Svatá Lucie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Svatý Vincenc a Grenadiny",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "San Marino",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Americké Panenské ostrovy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$21.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Anguilla",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Antigua a Barbuda",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Aruba",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Bahamy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Barbados",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Britské Panenské ostrovy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Kajmanské ostrovy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Curaçao",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Dominika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Dominikánská republika",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Grenada",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Honduras",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Jamajka",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Montserrat",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Antily",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Portoriko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Svatý Kryštof a Nevis",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Svatá Lucie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Svatý Vincenc a Grenadiny",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "San Marino",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Turks a Caicos",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Americké Panenské ostrovy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
   },
   {
     "country": "Austrálie",
@@ -256000,16 +256000,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Jihoafrická republika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Austrálie",
     "data": "40 GB",
     "validity": "30",
@@ -256451,6 +256441,16 @@
   },
   {
     "country": "Jihoafrická republika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$14.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jihoafrická republika",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$22.50",
@@ -256528,16 +256528,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Kazachstán",
-    "data": "40 GB",
-    "validity": "30",
-    "price_usd": "$69.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
   },
   {
     "country": "Rakousko",
@@ -257340,6 +257330,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Kazachstán",
+    "data": "40 GB",
+    "validity": "30",
+    "price_usd": "$69.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Uzbekistán",
     "data": "10 GB",
     "validity": "30",
@@ -257860,16 +257860,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Ázerbájdžán",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Laos",
     "data": "1 GB",
     "validity": "4",
@@ -257944,6 +257934,16 @@
     "data": "40 GB",
     "validity": "30",
     "price_usd": "$159.50",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Ázerbájdžán",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$51.99",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -258508,16 +258508,6 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Celý svět",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$20.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Indonésie",
@@ -260101,6 +260091,16 @@
   },
   {
     "country": "Celý svět",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$20.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Celý svět",
     "data": "5 GB",
     "validity": "30",
     "price_usd": "$30.00",
@@ -260410,16 +260410,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Bangladéš",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$41.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Malajsie",
     "data": "-1 GB",
     "validity": "10",
@@ -260630,16 +260620,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Bosna a Hercegovina",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$34.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Malajsie",
     "data": "10 GB",
     "validity": "30",
@@ -260700,6 +260680,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Bangladéš",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Nizozemsko",
     "data": "3 GB",
     "validity": "7",
@@ -260738,6 +260728,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$34.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
   },
   {
     "country": "Bosna a Hercegovina",
@@ -261121,16 +261121,6 @@
   },
   {
     "country": "Slovinsko",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$11.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Slovinsko",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$45.00",
@@ -261270,26 +261260,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Kypr",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$45.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Kypr",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Lotyšsko",
     "data": "15 GB",
     "validity": "30",
@@ -261391,6 +261361,16 @@
   },
   {
     "country": "Slovinsko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Slovinsko",
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$15.00",
@@ -261481,6 +261461,16 @@
   },
   {
     "country": "Kypr",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kypr",
     "data": "40 GB",
     "validity": "30",
     "price_usd": "$34.99",
@@ -261518,6 +261508,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Kypr",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
   },
   {
     "country": "Slovensko",
@@ -264430,386 +264430,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Spojené státy",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Spojené království",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Rakousko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Belgie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Chorvatsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Česko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Dánsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Estonsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Finsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Francie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Německo",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Řecko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Maďarsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Island",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Irsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Itálie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Lichtenštejnsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Litva",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Lucembursko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Malta",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Nizozemsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Norsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Portugalsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Slovinsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Španělsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Švédsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Švýcarsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Vatikán",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Rumunsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Polsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Slovensko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Austrálie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Indonésie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Japonsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Malajsie",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Turecko",
-    "data": "-1 GB",
-    "validity": "5",
-    "price_usd": "$19.99",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Čína",
     "data": "-1 GB",
     "validity": "7",
@@ -265642,6 +265262,386 @@
   {
     "country": "Spojené státy",
     "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené království",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Rakousko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Belgie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Bulharsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Chorvatsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Česko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Dánsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Estonsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Finsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Francie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Německo",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Řecko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Maďarsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Island",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Irsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Itálie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Lichtenštejnsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Litva",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Lucembursko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Malta",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Norsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Slovinsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Španělsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Švédsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Švýcarsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Vatikán",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Rumunsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Polsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Slovensko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Austrálie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Indonésie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Japonsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Malajsie",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Thajsko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Turecko",
+    "data": "-1 GB",
+    "validity": "5",
+    "price_usd": "$19.99",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "-1 GB",
     "validity": "21",
     "price_usd": "$49.99",
     "provider": "Jetpac",
@@ -267038,26 +267038,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Peru",
-    "data": "1 GB",
-    "validity": "4",
-    "price_usd": "$5.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Peru",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$11.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
   },
   {
     "country": "Ekvádor",
@@ -267388,6 +267368,26 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Peru",
+    "data": "1 GB",
+    "validity": "4",
+    "price_usd": "$5.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Peru",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$11.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
   },
   {
     "country": "Peru",
@@ -274203,7 +274203,7 @@
     "country": "Vietnam",
     "data": "4 GB",
     "validity": "30",
-    "price_usd": "$5.54",
+    "price_usd": "$1.00",
     "provider": "Airhub",
     "validityRange": "15–30",
     "affiliate": "https://gighubsystemsinc.sjv.io/POOqoM",
@@ -339158,6 +339158,16 @@
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-paraguay?variant=51828193788085",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Niger",
+    "data": "Neomezená",
+    "validity": "0",
+    "price_usd": "$19.16",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/tj-niger-esim?variant=51922587386037",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Kapverdy",
