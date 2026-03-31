@@ -563,7 +563,7 @@
     "country": "Vatikán",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$4.50",
+    "price_usd": "$4.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -572,8 +572,8 @@
   {
     "country": "Vatikán",
     "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$10.00",
+    "validity": "3",
+    "price_usd": "$7.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -582,8 +582,8 @@
   {
     "country": "Vatikán",
     "data": "3 GB",
-    "validity": "3",
-    "price_usd": "$9.50",
+    "validity": "7",
+    "price_usd": "$8.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -592,18 +592,8 @@
   {
     "country": "Vatikán",
     "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$14.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Vatikán",
-    "data": "5 GB",
     "validity": "7",
-    "price_usd": "$13.50",
+    "price_usd": "$12.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -613,7 +603,17 @@
     "country": "Vatikán",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$14.50",
+    "price_usd": "$13.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Vatikán",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$12.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -623,17 +623,7 @@
     "country": "Vatikán",
     "data": "10 GB",
     "validity": "15",
-    "price_usd": "$23.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$24.00",
+    "price_usd": "$20.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -643,17 +633,27 @@
     "country": "Vatikán",
     "data": "10 GB",
     "validity": "7",
-    "price_usd": "$22.50",
+    "price_usd": "$19.50",
     "provider": "Airalo",
     "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
   },
   {
     "country": "Vatikán",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$33.00",
+    "validity": "15",
+    "price_usd": "$27.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -662,8 +662,8 @@
   {
     "country": "Vatikán",
     "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$31.50",
+    "validity": "30",
+    "price_usd": "$28.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -673,7 +673,7 @@
     "country": "Vatikán",
     "data": "Neomezená",
     "validity": "3",
-    "price_usd": "$12.50",
+    "price_usd": "$11.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -683,7 +683,7 @@
     "country": "Vatikán",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$20.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -693,7 +693,7 @@
     "country": "Vatikán",
     "data": "50 GB",
     "validity": "30",
-    "price_usd": "$45.00",
+    "price_usd": "$36.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -703,7 +703,7 @@
     "country": "Vatikán",
     "data": "Neomezená",
     "validity": "7",
-    "price_usd": "$29.50",
+    "price_usd": "$27.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -733,7 +733,7 @@
     "country": "Vatikán",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$72.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -1872,7 +1872,7 @@
   {
     "country": "Kajmanské ostrovy",
     "data": "1 GB",
-    "validity": "7",
+    "validity": "3",
     "price_usd": "$9.50",
     "provider": "Airalo",
     "validityRange": "1–7",
@@ -1881,19 +1881,39 @@
   },
   {
     "country": "Kajmanské ostrovy",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$15.00",
+    "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$25.50",
     "provider": "Airalo",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
   },
   {
     "country": "Kajmanské ostrovy",
     "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$30.00",
+    "validity": "7",
+    "price_usd": "$27.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$36.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$37.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -1903,7 +1923,7 @@
     "country": "Kajmanské ostrovy",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$40.00",
+    "price_usd": "$38.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -1912,8 +1932,28 @@
   {
     "country": "Kajmanské ostrovy",
     "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$44.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$43.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
     "validity": "30",
-    "price_usd": "$50.00",
+    "price_usd": "$45.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -1922,8 +1962,128 @@
   {
     "country": "Kajmanské ostrovy",
     "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$50.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "20 GB",
     "validity": "30",
-    "price_usd": "$60.00",
+    "price_usd": "$54.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$7.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$23.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$25.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$33.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$34.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$40.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$42.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$40.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$48.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kajmanské ostrovy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$49.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -5383,7 +5543,7 @@
     "country": "Čína",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -5433,7 +5593,7 @@
     "country": "Čína",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$69.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6763,7 +6923,7 @@
     "country": "Spojené státy",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$15.00",
+    "price_usd": "$13.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6783,7 +6943,7 @@
     "country": "Spojené státy",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$36.00",
+    "price_usd": "$32.40",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6793,7 +6953,7 @@
     "country": "Spojené státy",
     "data": "5 GB",
     "validity": "60",
-    "price_usd": "$50.00",
+    "price_usd": "$45.00",
     "provider": "Airalo",
     "validityRange": "31–90",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6803,7 +6963,7 @@
     "country": "Spojené státy",
     "data": "10 GB",
     "validity": "180",
-    "price_usd": "$79.00",
+    "price_usd": "$71.10",
     "provider": "Airalo",
     "validityRange": "91+",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6823,7 +6983,7 @@
     "country": "Spojené státy",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$8.50",
+    "price_usd": "$7.65",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6833,7 +6993,7 @@
     "country": "Spojené státy",
     "data": "2 GB",
     "validity": "15",
-    "price_usd": "$16.50",
+    "price_usd": "$14.85",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6843,7 +7003,7 @@
     "country": "Spojené státy",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$24.00",
+    "price_usd": "$21.60",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6853,7 +7013,7 @@
     "country": "Spojené státy",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$33.00",
+    "price_usd": "$29.70",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6863,7 +7023,7 @@
     "country": "Spojené státy",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$33.00",
+    "price_usd": "$29.70",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6873,7 +7033,7 @@
     "country": "Spojené státy",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$34.00",
+    "price_usd": "$30.60",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6883,7 +7043,7 @@
     "country": "Spojené státy",
     "data": "5 GB",
     "validity": "60",
-    "price_usd": "$35.00",
+    "price_usd": "$31.50",
     "provider": "Airalo",
     "validityRange": "31–90",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6893,7 +7053,7 @@
     "country": "Spojené státy",
     "data": "10 GB",
     "validity": "7",
-    "price_usd": "$55.00",
+    "price_usd": "$49.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6903,7 +7063,7 @@
     "country": "Spojené státy",
     "data": "10 GB",
     "validity": "15",
-    "price_usd": "$56.00",
+    "price_usd": "$50.40",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6913,7 +7073,7 @@
     "country": "Spojené státy",
     "data": "10 GB",
     "validity": "180",
-    "price_usd": "$57.00",
+    "price_usd": "$51.30",
     "provider": "Airalo",
     "validityRange": "91+",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6923,7 +7083,7 @@
     "country": "Spojené státy",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$57.00",
+    "price_usd": "$51.30",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6933,7 +7093,7 @@
     "country": "Spojené státy",
     "data": "20 GB",
     "validity": "15",
-    "price_usd": "$65.00",
+    "price_usd": "$58.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -6943,7 +7103,7 @@
     "country": "Spojené státy",
     "data": "20 GB",
     "validity": "365",
-    "price_usd": "$66.00",
+    "price_usd": "$59.40",
     "provider": "Airalo",
     "validityRange": "91+",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -7613,7 +7773,7 @@
     "country": "Tunisko",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$3.50",
+    "price_usd": "$4.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -7733,7 +7893,7 @@
     "country": "Tunisko",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$32.50",
+    "price_usd": "$28.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -7743,7 +7903,7 @@
     "country": "Tunisko",
     "data": "Neomezená",
     "validity": "7",
-    "price_usd": "$40.50",
+    "price_usd": "$35.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -7753,7 +7913,7 @@
     "country": "Tunisko",
     "data": "Neomezená",
     "validity": "15",
-    "price_usd": "$63.00",
+    "price_usd": "$59.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -8053,7 +8213,7 @@
     "country": "Eswatini",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$9.50",
+    "price_usd": "$8.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -8063,7 +8223,7 @@
     "country": "Eswatini",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$25.00",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -8073,7 +8233,7 @@
     "country": "Eswatini",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$27.00",
+    "price_usd": "$21.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -8963,7 +9123,7 @@
     "country": "Finsko",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11613,7 +11773,7 @@
     "country": "Hongkong – ZAO Číny",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$20.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -11663,7 +11823,7 @@
     "country": "Hongkong – ZAO Číny",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$71.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13112,8 +13272,8 @@
   {
     "country": "Jamajka",
     "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
+    "validity": "3",
+    "price_usd": "$8.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13121,9 +13281,69 @@
   },
   {
     "country": "Jamajka",
-    "data": "2 GB",
-    "validity": "15",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$10.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jamajka",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$21.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "3 GB",
+    "validity": "3",
     "price_usd": "$17.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$19.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$28.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$29.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13131,9 +13351,29 @@
   },
   {
     "country": "Jamajka",
-    "data": "3 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$22.50",
+    "price_usd": "$30.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$30.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jamajka",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$31.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13153,6 +13393,56 @@
     "country": "Jamajka",
     "data": "10 GB",
     "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$36.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$37.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$32.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$33.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jamajka",
+    "data": "10 GB",
+    "validity": "30",
     "price_usd": "$38.50",
     "provider": "Airalo",
     "validityRange": "15–30",
@@ -13162,8 +13452,8 @@
   {
     "country": "Jamajka",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$46.50",
+    "validity": "15",
+    "price_usd": "$43.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13171,59 +13461,29 @@
   },
   {
     "country": "Jamajka",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$8.00",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
     "provider": "Airalo",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "≤1"
+    "dataRange": "11–20"
   },
   {
     "country": "Jamajka",
-    "data": "2 GB",
+    "data": "20 GB",
     "validity": "15",
-    "price_usd": "$14.00",
+    "price_usd": "$45.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jamajka",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$19.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jamajka",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$30.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jamajka",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
+    "dataRange": "11–20"
   },
   {
     "country": "Jamajka",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$45.00",
+    "price_usd": "$50.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13693,7 +13953,7 @@
     "country": "Černá Hora",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$29.50",
+    "price_usd": "$28.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -13713,7 +13973,7 @@
     "country": "Černá Hora",
     "data": "Neomezená",
     "validity": "10",
-    "price_usd": "$38.00",
+    "price_usd": "$37.00",
     "provider": "Airalo",
     "validityRange": "8–14",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -16213,7 +16473,7 @@
     "country": "Litva",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$72.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -16343,7 +16603,7 @@
     "country": "Norsko",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -17533,7 +17793,7 @@
     "country": "Malta",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -17583,7 +17843,7 @@
     "country": "Malta",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$72.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -17922,8 +18182,8 @@
   {
     "country": "Kanárské ostrovy",
     "data": "3 GB",
-    "validity": "3",
-    "price_usd": "$8.50",
+    "validity": "7",
+    "price_usd": "$7.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -17932,39 +18192,39 @@
   {
     "country": "Kanárské ostrovy",
     "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$6.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanárské ostrovy",
+    "data": "5 GB",
     "validity": "7",
+    "price_usd": "$9.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanárské ostrovy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$10.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kanárské ostrovy",
+    "data": "5 GB",
+    "validity": "15",
     "price_usd": "$9.50",
     "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanárské ostrovy",
-    "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$13.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanárské ostrovy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$14.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kanárské ostrovy",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$13.50",
-    "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
@@ -17973,17 +18233,7 @@
     "country": "Kanárské ostrovy",
     "data": "10 GB",
     "validity": "15",
-    "price_usd": "$22.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Kanárské ostrovy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.00",
+    "price_usd": "$15.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -17993,17 +18243,27 @@
     "country": "Kanárské ostrovy",
     "data": "10 GB",
     "validity": "7",
-    "price_usd": "$21.50",
+    "price_usd": "$14.50",
     "provider": "Airalo",
     "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Kanárské ostrovy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
   },
   {
     "country": "Kanárské ostrovy",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$36.00",
+    "validity": "15",
+    "price_usd": "$22.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18012,8 +18272,8 @@
   {
     "country": "Kanárské ostrovy",
     "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$34.50",
+    "validity": "30",
+    "price_usd": "$22.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18033,7 +18293,7 @@
     "country": "Kanárské ostrovy",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18043,7 +18303,7 @@
     "country": "Kanárské ostrovy",
     "data": "50 GB",
     "validity": "30",
-    "price_usd": "$49.00",
+    "price_usd": "$45.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18093,7 +18353,7 @@
     "country": "Libérie",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$9.50",
+    "price_usd": "$6.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18103,7 +18363,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$6.50",
+    "price_usd": "$6.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18113,7 +18373,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$16.50",
+    "price_usd": "$11.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18123,7 +18383,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$17.50",
+    "price_usd": "$12.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18133,7 +18393,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$25.00",
+    "price_usd": "$16.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18143,7 +18403,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$26.50",
+    "price_usd": "$17.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -18153,7 +18413,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$27.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19263,7 +19523,7 @@
     "country": "Mauricius",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$7.50",
+    "price_usd": "$6.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19273,7 +19533,7 @@
     "country": "Mauricius",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$15.00",
+    "price_usd": "$12.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19283,7 +19543,7 @@
     "country": "Mauricius",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$16.50",
+    "price_usd": "$13.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19293,7 +19553,7 @@
     "country": "Mauricius",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$22.00",
+    "price_usd": "$18.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19303,7 +19563,7 @@
     "country": "Mauricius",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$24.00",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19313,39 +19573,39 @@
     "country": "Mauricius",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$27.00",
+    "price_usd": "$21.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Mauricius",
-    "data": "10 GB",
-    "validity": "15",
-    "price_usd": "$43.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Mauricius",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$48.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
   },
   {
     "country": "Mauricius",
     "data": "10 GB",
     "validity": "7",
-    "price_usd": "$38.50",
+    "price_usd": "$30.00",
     "provider": "Airalo",
     "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Mauricius",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$34.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Mauricius",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$36.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
   },
@@ -19523,7 +19783,7 @@
     "country": "Brunej",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$9.00",
+    "price_usd": "$7.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19533,7 +19793,7 @@
     "country": "Brunej",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$19.00",
+    "price_usd": "$15.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19543,7 +19803,7 @@
     "country": "Brunej",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$20.00",
+    "price_usd": "$17.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19553,7 +19813,7 @@
     "country": "Brunej",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$32.00",
+    "price_usd": "$22.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19563,7 +19823,7 @@
     "country": "Brunej",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$34.00",
+    "price_usd": "$25.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -19573,7 +19833,7 @@
     "country": "Brunej",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$35.00",
+    "price_usd": "$27.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -20673,7 +20933,7 @@
     "country": "Rumunsko",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -20783,7 +21043,7 @@
     "country": "Grónsko",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$9.00",
+    "price_usd": "$7.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -20793,7 +21053,7 @@
     "country": "Grónsko",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$24.00",
+    "price_usd": "$12.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -20803,7 +21063,7 @@
     "country": "Grónsko",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$25.00",
+    "price_usd": "$13.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21402,8 +21662,8 @@
   {
     "country": "Panama",
     "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
+    "validity": "3",
+    "price_usd": "$7.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21411,9 +21671,69 @@
   },
   {
     "country": "Panama",
-    "data": "2 GB",
-    "validity": "15",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$9.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Panama",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$21.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "3 GB",
+    "validity": "3",
     "price_usd": "$17.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "3 GB",
+    "validity": "3",
+    "price_usd": "$19.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$28.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$29.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21421,9 +21741,29 @@
   },
   {
     "country": "Panama",
-    "data": "3 GB",
+    "data": "5 GB",
     "validity": "30",
-    "price_usd": "$22.50",
+    "price_usd": "$30.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$30.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Panama",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$31.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21442,8 +21782,58 @@
   {
     "country": "Panama",
     "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$37.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Panama",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$37.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Panama",
+    "data": "10 GB",
     "validity": "30",
-    "price_usd": "$38.50",
+    "price_usd": "$39.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Panama",
+    "data": "10 GB",
+    "validity": "15",
+    "price_usd": "$33.50",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Panama",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$40.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Panama",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$42.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21452,8 +21842,8 @@
   {
     "country": "Panama",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$46.50",
+    "validity": "15",
+    "price_usd": "$38.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21461,53 +21851,13 @@
   },
   {
     "country": "Panama",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$9.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Panama",
-    "data": "2 GB",
+    "data": "20 GB",
     "validity": "15",
-    "price_usd": "$15.00",
+    "price_usd": "$40.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Panama",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Panama",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$30.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Panama",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
+    "dataRange": "11–20"
   },
   {
     "country": "Panama",
@@ -21520,10 +21870,20 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Panama",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$50.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Bhútán",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$12.00",
+    "price_usd": "$5.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21533,7 +21893,7 @@
     "country": "Bhútán",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$29.00",
+    "price_usd": "$11.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21543,7 +21903,7 @@
     "country": "Bhútán",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$31.00",
+    "price_usd": "$12.50",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21553,7 +21913,7 @@
     "country": "Bhútán",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$47.00",
+    "price_usd": "$17.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21563,7 +21923,7 @@
     "country": "Bhútán",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$48.00",
+    "price_usd": "$18.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21573,7 +21933,7 @@
     "country": "Bhútán",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$49.00",
+    "price_usd": "$20.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21583,7 +21943,7 @@
     "country": "Nepál",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$8.50",
+    "price_usd": "$5.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21593,77 +21953,77 @@
     "country": "Nepál",
     "data": "3 GB",
     "validity": "3",
+    "price_usd": "$10.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$11.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$13.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$15.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nepál",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$22.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Nepál",
+    "data": "10 GB",
+    "validity": "15",
     "price_usd": "$23.00",
     "provider": "Airalo",
-    "validityRange": "1–7",
+    "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
+    "dataRange": "6–10"
   },
   {
     "country": "Nepál",
-    "data": "3 GB",
-    "validity": "7",
+    "data": "10 GB",
+    "validity": "30",
     "price_usd": "$24.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nepál",
-    "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$33.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nepál",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$34.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nepál",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$35.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nepál",
-    "data": "10 GB",
-    "validity": "7",
-    "price_usd": "$47.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Nepál",
-    "data": "10 GB",
-    "validity": "15",
-    "price_usd": "$48.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Nepál",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$49.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21673,7 +22033,7 @@
     "country": "Nepál",
     "data": "Neomezená",
     "validity": "3",
-    "price_usd": "$31.50",
+    "price_usd": "$17.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21683,7 +22043,7 @@
     "country": "Nepál",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$53.50",
+    "price_usd": "$26.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21693,7 +22053,7 @@
     "country": "Nepál",
     "data": "Neomezená",
     "validity": "7",
-    "price_usd": "$65.50",
+    "price_usd": "$35.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -21703,7 +22063,7 @@
     "country": "Nepál",
     "data": "Neomezená",
     "validity": "10",
-    "price_usd": "$84.00",
+    "price_usd": "$43.00",
     "provider": "Airalo",
     "validityRange": "8–14",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22593,7 +22953,7 @@
     "country": "Madeira",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$4.50",
+    "price_usd": "$4.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22603,7 +22963,7 @@
     "country": "Madeira",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$10.00",
+    "price_usd": "$6.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22613,58 +22973,58 @@
     "country": "Madeira",
     "data": "3 GB",
     "validity": "7",
+    "price_usd": "$6.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Madeira",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$8.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Madeira",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "Airalo",
+    "validityRange": "15–30",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Madeira",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$7.50",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Madeira",
+    "data": "10 GB",
+    "validity": "7",
+    "price_usd": "$10.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Madeira",
+    "data": "10 GB",
+    "validity": "30",
     "price_usd": "$11.00",
     "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Madeira",
-    "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$16.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Madeira",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Madeira",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$16.50",
-    "provider": "Airalo",
-    "validityRange": "15–30",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Madeira",
-    "data": "10 GB",
-    "validity": "7",
-    "price_usd": "$27.00",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Madeira",
-    "data": "10 GB",
-    "validity": "15",
-    "price_usd": "$28.00",
-    "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
     "dataRange": "6–10"
@@ -22672,8 +23032,8 @@
   {
     "country": "Madeira",
     "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$29.00",
+    "validity": "15",
+    "price_usd": "$10.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22682,8 +23042,8 @@
   {
     "country": "Madeira",
     "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$46.00",
+    "validity": "30",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22692,8 +23052,8 @@
   {
     "country": "Madeira",
     "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$48.00",
+    "validity": "15",
+    "price_usd": "$18.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -22713,7 +23073,7 @@
     "country": "Madeira",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$19.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -23693,7 +24053,7 @@
     "country": "Libanon",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$9.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -25263,7 +25623,7 @@
     "country": "Svatý Martin (Francie)",
     "data": "5 GB",
     "validity": "7",
-    "price_usd": "$25.00",
+    "price_usd": "$16.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -26443,7 +26803,7 @@
     "country": "Paraguay",
     "data": "Neomezená",
     "validity": "15",
-    "price_usd": "$62.00",
+    "price_usd": "$63.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27323,7 +27683,7 @@
     "country": "Burkina Faso",
     "data": "3 GB",
     "validity": "3",
-    "price_usd": "$18.00",
+    "price_usd": "$14.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27333,7 +27693,17 @@
     "country": "Burkina Faso",
     "data": "3 GB",
     "validity": "7",
-    "price_usd": "$19.50",
+    "price_usd": "$15.00",
+    "provider": "Airalo",
+    "validityRange": "1–7",
+    "affiliate": "https://airalo.pxf.io/eK55eQ",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Burkina Faso",
+    "data": "5 GB",
+    "validity": "7",
+    "price_usd": "$22.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27343,7 +27713,7 @@
     "country": "Burkina Faso",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$32.00",
+    "price_usd": "$23.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27352,18 +27722,8 @@
   {
     "country": "Burkina Faso",
     "data": "5 GB",
-    "validity": "7",
-    "price_usd": "$29.50",
-    "provider": "Airalo",
-    "validityRange": "1–7",
-    "affiliate": "https://airalo.pxf.io/eK55eQ",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Burkina Faso",
-    "data": "5 GB",
     "validity": "15",
-    "price_usd": "$30.50",
+    "price_usd": "$22.50",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27833,7 +28193,7 @@
     "country": "Tchaj-wan",
     "data": "Neomezená",
     "validity": "5",
-    "price_usd": "$20.50",
+    "price_usd": "$19.00",
     "provider": "Airalo",
     "validityRange": "1–7",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -27883,7 +28243,7 @@
     "country": "Tchaj-wan",
     "data": "Neomezená",
     "validity": "30",
-    "price_usd": "$72.50",
+    "price_usd": "$69.00",
     "provider": "Airalo",
     "validityRange": "15–30",
     "affiliate": "https://airalo.pxf.io/eK55eQ",
@@ -92640,16 +93000,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Filipíny",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$45.49",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Libérie",
     "data": "100 GB",
     "validity": "60",
@@ -92698,16 +93048,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$66.49",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
   },
   {
     "country": "Bermudy",
@@ -93898,6 +94238,26 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Egypt",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Egypt",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$22.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
   },
   {
     "country": "Rumunsko",
@@ -99130,6 +99490,146 @@
     "dataRange": "50+"
   },
   {
+    "country": "Filipíny",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Filipíny",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$6.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Filipíny",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Filipíny",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$12.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Filipíny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$20.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Filipíny",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$37.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Filipíny",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$64.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Thajsko",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$2.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Thajsko",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$4.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Thajsko",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$6.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Thajsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Thajsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Thajsko",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$28.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Thajsko",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$94.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Srbsko",
     "data": "5 GB",
     "validity": "15",
@@ -100750,26 +101250,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Filipíny",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$46.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Maledivy",
     "data": "50 GB",
     "validity": "45",
@@ -102250,16 +102730,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Malajsie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Blízký východ",
     "data": "100 GB",
     "validity": "60",
@@ -102870,16 +103340,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Malajsie",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$5.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Honduras",
     "data": "Neomezená",
     "validity": "3",
@@ -102898,16 +103358,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Malajsie",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$34.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Honduras",
@@ -103204,16 +103654,6 @@
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Filipíny",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$16.79",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -103730,16 +104170,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Jižní Korea",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$39.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Malawi",
     "data": "100 GB",
     "validity": "60",
@@ -103828,16 +104258,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Malajsie",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$59.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
   },
   {
     "country": "Ukrajina",
@@ -104630,16 +105050,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$4.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Svatý Vincenc a Grenadiny",
     "data": "Neomezená",
     "validity": "15",
@@ -104710,32 +105120,12 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Thajsko",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$28.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Spojené arabské emiráty",
     "data": "Neomezená",
     "validity": "3",
     "price_usd": "$13.99",
     "provider": "Global YO",
     "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
   },
@@ -104748,6 +105138,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$23.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Lucembursko",
@@ -105140,6 +105540,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Malajsie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$39.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Singapur",
     "data": "1 GB",
     "validity": "30",
@@ -105154,16 +105564,6 @@
     "data": "1 GB",
     "validity": "30",
     "price_usd": "$42.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Malajsie",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -105210,16 +105610,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Jižní Korea",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "$36.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Singapur",
     "data": "1 GB",
     "validity": "7",
@@ -105228,6 +105618,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$36.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Maroko",
@@ -105540,6 +105940,16 @@
     "dataRange": "Neomezená"
   },
   {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
     "country": "Kyrgyzstán",
     "data": "Neomezená",
     "validity": "7",
@@ -105616,16 +106026,6 @@
     "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Thajsko",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
   },
@@ -105730,16 +106130,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Thajsko",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$21.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Honduras",
     "data": "Neomezená",
     "validity": "30",
@@ -105828,6 +106218,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "1 GB",
+    "validity": "15",
+    "price_usd": "$21.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Irák",
@@ -106370,16 +106770,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Thajsko",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Indonésie",
     "data": "Neomezená",
     "validity": "30",
@@ -106388,6 +106778,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$13.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Spojené arabské emiráty",
@@ -106800,40 +107200,10 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Jižní Korea",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Thajsko",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$2.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Saúdská Arábie",
     "data": "50 GB",
     "validity": "45",
     "price_usd": "$49.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
-    "country": "Filipíny",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$37.99",
     "provider": "Global YO",
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -108160,16 +108530,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Bolívie",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$60.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Jižní Korea",
     "data": "1 GB",
     "validity": "15",
@@ -108178,6 +108538,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Bolívie",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$60.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
   },
   {
     "country": "Antigua a Barbuda",
@@ -108228,6 +108598,16 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Malajsie",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$59.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
   },
   {
     "country": "Panama",
@@ -108560,16 +108940,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Malajsie",
-    "data": "Neomezená",
-    "validity": "3",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Aruba",
     "data": "10 GB",
     "validity": "30",
@@ -108618,6 +108988,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "50+"
+  },
+  {
+    "country": "Malajsie",
+    "data": "Neomezená",
+    "validity": "3",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Bulharsko",
@@ -109700,6 +110080,16 @@
     "dataRange": "50+"
   },
   {
+    "country": "Malajsie",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$34.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Dánsko",
     "data": "100 GB",
     "validity": "60",
@@ -110150,6 +110540,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Jižní Korea",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$79.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Lesotho",
     "data": "1 GB",
     "validity": "3",
@@ -110448,6 +110848,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$4.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Maďarsko",
@@ -110770,16 +111180,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Thajsko",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "$10.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Irsko",
     "data": "1 GB",
     "validity": "15",
@@ -110834,6 +111234,16 @@
     "data": "Neomezená",
     "validity": "7",
     "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Thajsko",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$10.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -110920,16 +111330,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Malajsie",
-    "data": "Neomezená",
-    "validity": "7",
-    "price_usd": "$13.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Irsko",
     "data": "Neomezená",
     "validity": "15",
@@ -110944,6 +111344,16 @@
     "data": "Neomezená",
     "validity": "7",
     "price_usd": "$19.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Malajsie",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$13.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -111270,6 +111680,16 @@
     "dataRange": "Neomezená"
   },
   {
+    "country": "Malajsie",
+    "data": "1 GB",
+    "validity": "15",
+    "price_usd": "$26.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Pákistán",
     "data": "1 GB",
     "validity": "15",
@@ -111288,16 +111708,6 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
-  },
-  {
-    "country": "Malajsie",
-    "data": "1 GB",
-    "validity": "15",
-    "price_usd": "$26.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
   },
   {
     "country": "Nový Zéland",
@@ -111390,6 +111800,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Jižní Korea",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$46.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "Řecko",
     "data": "50 GB",
     "validity": "45",
@@ -111418,6 +111838,16 @@
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Malajsie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Panama",
@@ -111960,16 +112390,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Malajsie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$8.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Gruzie",
     "data": "Neomezená",
     "validity": "7",
@@ -111988,6 +112408,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "Neomezená"
+  },
+  {
+    "country": "Malajsie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$8.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
   },
   {
     "country": "Česko",
@@ -112440,30 +112870,10 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Malajsie",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$8.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Vietnam",
     "data": "5 GB",
     "validity": "15",
     "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Thajsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$6.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -112660,6 +113070,16 @@
     "dataRange": "Neomezená"
   },
   {
+    "country": "Jižní Korea",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Island",
     "data": "3 GB",
     "validity": "15",
@@ -112820,16 +113240,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Jižní Korea",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Irák",
     "data": "3 GB",
     "validity": "15",
@@ -112844,6 +113254,16 @@
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$5.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113200,30 +113620,20 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Vietnam",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$14.39",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Malajsie",
-    "data": "10 GB",
-    "validity": "30",
+    "country": "Jižní Korea",
+    "data": "5 GB",
+    "validity": "15",
     "price_usd": "$11.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
+    "dataRange": "2–5"
   },
   {
-    "country": "Thajsko",
+    "country": "Vietnam",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$8.99",
+    "price_usd": "$14.39",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113378,16 +113788,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$14.39",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
   },
   {
     "country": "Súdán",
@@ -113620,6 +114020,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Malajsie",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$8.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Gruzie",
     "data": "5 GB",
     "validity": "15",
@@ -113780,16 +114190,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Jižní Korea",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$17.99",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Švýcarsko",
     "data": "1 GB",
     "validity": "7",
@@ -113804,6 +114204,16 @@
     "data": "1 GB",
     "validity": "7",
     "price_usd": "$25.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$17.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -113910,20 +114320,20 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Malajsie",
+    "country": "Brazílie",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$16.99",
+    "price_usd": "$31.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
   },
   {
-    "country": "Brazílie",
+    "country": "Malajsie",
     "data": "1 GB",
     "validity": "7",
-    "price_usd": "$31.99",
+    "price_usd": "$16.99",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -114100,40 +114510,10 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Jižní Korea",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$20.79",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Vietnam",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$20.79",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Malajsie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Thajsko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$12.79",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -114204,6 +114584,16 @@
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$15.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -114324,6 +114714,16 @@
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$57.59",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Malajsie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$11.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -114700,6 +115100,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Jižní Korea",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$25.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Indonésie",
     "data": "20 GB",
     "validity": "30",
@@ -114810,6 +115220,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Malajsie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$19.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Čína",
     "data": "20 GB",
     "validity": "30",
@@ -114870,16 +115290,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Thajsko",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$4.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Macao – ZAO Číny",
     "data": "1 GB",
     "validity": "3",
@@ -114938,36 +115348,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Filipíny",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$6.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Filipíny",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Filipíny",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$11.69",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
   },
   {
     "country": "Afghánistán",
@@ -259770,16 +260150,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Celý svět",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$30.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Ázerbájdžán",
     "data": "1 GB",
     "validity": "4",
@@ -260384,16 +260754,6 @@
     "data": "15 GB",
     "validity": "30",
     "price_usd": "$29.99",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Argentina",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$60.00",
     "provider": "Jetpac",
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -263250,6 +263610,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Celý svět",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$30.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Albánie",
     "data": "1 GB",
     "validity": "4",
@@ -263358,6 +263728,16 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Argentina",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$60.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
   },
   {
     "country": "Argentina",
@@ -263514,16 +263894,6 @@
     "data": "3 GB",
     "validity": "1",
     "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Brazílie",
-    "data": "3 GB",
-    "validity": "4",
-    "price_usd": "$8.00",
     "provider": "Jetpac",
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -264291,6 +264661,16 @@
   },
   {
     "country": "Brazílie",
+    "data": "3 GB",
+    "validity": "4",
+    "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Brazílie",
     "data": "5 GB",
     "validity": "4",
     "price_usd": "$10.00",
@@ -264788,16 +265168,6 @@
     "validityRange": "15–30",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Blízký východ",
-    "data": "15 GB",
-    "validity": "30",
-    "price_usd": "$45.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "11–20"
   },
   {
     "country": "Blízký východ",
@@ -265618,6 +265988,16 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Blízký východ",
+    "data": "15 GB",
+    "validity": "30",
+    "price_usd": "$45.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "11–20"
   },
   {
     "country": "Blízký východ",
@@ -269831,16 +270211,6 @@
   },
   {
     "country": "Japonsko",
-    "data": "10 GB",
-    "validity": "7",
-    "price_usd": "$11.50",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Japonsko",
     "data": "3 GB",
     "validity": "1",
     "price_usd": "$5.00",
@@ -270690,74 +271060,14 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Indonésie",
-    "data": "3 GB",
+    "country": "Japonsko",
+    "data": "10 GB",
     "validity": "7",
-    "price_usd": "$12.00",
+    "price_usd": "$11.50",
     "provider": "Jetpac",
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Malajsie",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Filipíny",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Thajsko",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Vietnam",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Singapur",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Kambodža",
-    "data": "3 GB",
-    "validity": "7",
-    "price_usd": "$12.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
+    "dataRange": "6–10"
   },
   {
     "country": "Japonsko",
@@ -270934,16 +271244,6 @@
     "data": "5 GB",
     "validity": "1",
     "price_usd": "$10.50",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Severní Amerika",
-    "data": "5 GB",
-    "validity": "4",
-    "price_usd": "$12.00",
     "provider": "Jetpac",
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -271551,6 +271851,76 @@
   },
   {
     "country": "Indonésie",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Malajsie",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Filipíny",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Thajsko",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Vietnam",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Singapur",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kambodža",
+    "data": "3 GB",
+    "validity": "7",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Indonésie",
     "data": "40 GB",
     "validity": "30",
     "price_usd": "$59.99",
@@ -271962,6 +272332,16 @@
   {
     "country": "Severní Amerika",
     "data": "5 GB",
+    "validity": "4",
+    "price_usd": "$12.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Severní Amerika",
+    "data": "5 GB",
     "validity": "7",
     "price_usd": "$14.50",
     "provider": "Jetpac",
@@ -272211,16 +272591,6 @@
   },
   {
     "country": "Uzbekistán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "Jetpac",
-    "validityRange": "15–30",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Uzbekistán",
     "data": "3 GB",
     "validity": "7",
     "price_usd": "$8.00",
@@ -272424,16 +272794,6 @@
     "data": "5 GB",
     "validity": "1",
     "price_usd": "$7.00",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Jižní Korea",
-    "data": "5 GB",
-    "validity": "4",
-    "price_usd": "$8.00",
     "provider": "Jetpac",
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -273291,6 +273651,16 @@
   },
   {
     "country": "Uzbekistán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$20.00",
+    "provider": "Jetpac",
+    "validityRange": "15–30",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Uzbekistán",
     "data": "15 GB",
     "validity": "30",
     "price_usd": "$23.00",
@@ -273482,6 +273852,16 @@
   {
     "country": "Jižní Korea",
     "data": "5 GB",
+    "validity": "4",
+    "price_usd": "$8.00",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Jižní Korea",
+    "data": "5 GB",
     "validity": "7",
     "price_usd": "$9.50",
     "provider": "Jetpac",
@@ -273494,16 +273874,6 @@
     "data": "10 GB",
     "validity": "1",
     "price_usd": "$8.50",
-    "provider": "Jetpac",
-    "validityRange": "1–7",
-    "affiliate": "https://circleslife.pxf.io/jrbA3e",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Tchaj-wan",
-    "data": "10 GB",
-    "validity": "4",
-    "price_usd": "$10.50",
     "provider": "Jetpac",
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
@@ -274058,6 +274428,16 @@
     "validityRange": "1–7",
     "affiliate": "https://circleslife.pxf.io/jrbA3e",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Tchaj-wan",
+    "data": "10 GB",
+    "validity": "4",
+    "price_usd": "$10.50",
+    "provider": "Jetpac",
+    "validityRange": "1–7",
+    "affiliate": "https://circleslife.pxf.io/jrbA3e",
+    "dataRange": "6–10"
   },
   {
     "country": "Tchaj-wan",
@@ -281590,7 +281970,7 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Austrálie",
+    "country": "Nový Zéland",
     "data": "Neomezená",
     "validity": "30",
     "price_usd": "$70.00",
@@ -347552,10 +347932,10 @@
   {
     "country": "Bosna a Hercegovina",
     "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$8.49",
+    "validity": "7",
+    "price_usd": "$4.99",
     "provider": "eTravelSim",
-    "validityRange": "15–30",
+    "validityRange": "1–7",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=45437522641077",
     "dataRange": "≤1"
   },
@@ -347563,7 +347943,7 @@
     "country": "Bosna a Hercegovina",
     "data": "3 GB",
     "validity": "30",
-    "price_usd": "$19.99",
+    "price_usd": "$7.99",
     "provider": "eTravelSim",
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=45437522673845",
@@ -347573,7 +347953,7 @@
     "country": "Bosna a Hercegovina",
     "data": "5 GB",
     "validity": "30",
-    "price_usd": "$29.99",
+    "price_usd": "$11.99",
     "provider": "eTravelSim",
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=45437522706613",
@@ -347583,7 +347963,7 @@
     "country": "Bosna a Hercegovina",
     "data": "10 GB",
     "validity": "30",
-    "price_usd": "$27.99",
+    "price_usd": "$19.99",
     "provider": "eTravelSim",
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=45437522739381",
@@ -347593,7 +347973,7 @@
     "country": "Bosna a Hercegovina",
     "data": "20 GB",
     "validity": "30",
-    "price_usd": "$89.99",
+    "price_usd": "$27.99",
     "provider": "eTravelSim",
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=45437522772149",
@@ -353478,6 +353858,36 @@
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/morocco-orange-esim?variant=52377991184565",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "Neomezená",
+    "validity": "7",
+    "price_usd": "$19.00",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=52395942871221",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "Neomezená",
+    "validity": "15",
+    "price_usd": "$39.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=52395942903989",
+    "dataRange": "Neomezená"
+  },
+  {
+    "country": "Bosna a Hercegovina",
+    "data": "Neomezená",
+    "validity": "30",
+    "price_usd": "$65.00",
+    "provider": "eTravelSim",
+    "validityRange": "15–30",
+    "affiliate": "https://etravelsim.com/products/travel-esim-for-bosnia-herzegovina?variant=52395942936757",
+    "dataRange": "Neomezená"
   },
   {
     "country": "Afghánistán",
