@@ -299280,6 +299280,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Spojené arabské emiráty",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$18.50",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Bosna a Hercegovina",
     "data": "2 GB",
     "validity": "7",
@@ -301390,6 +301400,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Malajsie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/malaysia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Tádžikistán",
     "data": "1 GB",
     "validity": "7",
@@ -301840,6 +301860,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Spojené arabské emiráty",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Antigua a Barbuda",
     "data": "5 GB",
     "validity": "30",
@@ -301928,16 +301958,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/bahamas-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Malajsie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/malaysia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
   },
   {
     "country": "Mongolsko",
@@ -303830,6 +303850,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Spojené arabské emiráty",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$8.50",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Surinam",
     "data": "20 GB",
     "validity": "30",
@@ -304238,16 +304268,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/canada-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
-  },
-  {
-    "country": "Spojené arabské emiráty",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$11.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
   },
   {
     "country": "Německo",
@@ -305620,6 +305640,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Spojené arabské emiráty",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$29.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Slovensko",
     "data": "2 GB",
     "validity": "3",
@@ -305887,6 +305917,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/egypt-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -306370,16 +306410,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$29.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Černá Hora",
     "data": "5 GB",
     "validity": "30",
@@ -306768,16 +306798,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/timor-l'este-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené arabské emiráty",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$18.50",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
   },
   {
     "country": "Sierra Leone",
@@ -307767,16 +307787,6 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/slovenia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené arabské emiráty",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$8.50",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
