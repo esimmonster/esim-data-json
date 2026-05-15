@@ -39510,26 +39510,6 @@
     "dataRange": "Neomezená"
   },
   {
-    "country": "Thajsko",
-    "data": "Neomezená",
-    "validity": "15",
-    "price_usd": "€29.00",
-    "provider": "Yesim",
-    "validityRange": "15–30",
-    "affiliate": "https://yesim.app/country/thailand/?partner_id=517",
-    "dataRange": "Neomezená"
-  },
-  {
-    "country": "Thajsko",
-    "data": "Neomezená",
-    "validity": "30",
-    "price_usd": "€42.00",
-    "provider": "Yesim",
-    "validityRange": "15–30",
-    "affiliate": "https://yesim.app/country/thailand/?partner_id=517",
-    "dataRange": "Neomezená"
-  },
-  {
     "country": "Turecko",
     "data": "0.5 GB",
     "validity": "1",
@@ -44513,21 +44493,11 @@
     "country": "Bulharsko",
     "data": "100 GB",
     "validity": "180",
-    "price_usd": "$26.99",
+    "price_usd": "$29.99",
     "provider": "Mobimatter",
     "validityRange": "91+",
     "affiliate": "https://mobimatter.com/travel-esim/yettel-bulgaria-100-gb-6-months-esim#esimmonster",
     "dataRange": "50+"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "30 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/yettel-bulgaria-30-gb-esim#esimmonster",
-    "dataRange": "21–50"
   },
   {
     "country": "Malajsie",
@@ -44547,6 +44517,16 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/u-mobile-malaysia-30-gb-esim#esimmonster",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Bulharsko",
+    "data": "30 GB",
+    "validity": "30",
+    "price_usd": "$11.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/yettel-bulgaria-30-gb-esim#esimmonster",
     "dataRange": "21–50"
   },
   {
@@ -44770,326 +44750,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Rakousko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Belgie",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Chorvatsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Kypr",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Česko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Dánsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Estonsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Finsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Francie",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Německo",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Řecko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Maďarsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Island",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Irsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Itálie",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lotyšsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lichtenštejnsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Litva",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lucembursko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Malta",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Nizozemsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Norsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Polsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Portugalsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Rumunsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Slovensko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Slovinsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Španělsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Švédsko",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Spojené království",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Vatikán",
-    "data": "120 GB",
-    "validity": "30",
-    "price_usd": "$51.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
     "country": "Moldavsko",
     "data": "50 GB",
     "validity": "60",
@@ -45108,6 +44768,326 @@
     "validityRange": "31–90",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-ukraine-and-moldova-50-gb-esim#esimmonster",
     "dataRange": "21–50"
+  },
+  {
+    "country": "Rakousko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Belgie",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Bulharsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Chorvatsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Kypr",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Česko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Dánsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Estonsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Finsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Francie",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Německo",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Řecko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Maďarsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Island",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Irsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Itálie",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lotyšsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lichtenštejnsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Litva",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lucembursko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Malta",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Norsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Polsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Rumunsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Slovensko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Slovinsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Španělsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Švédsko",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Spojené království",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Vatikán",
+    "data": "120 GB",
+    "validity": "30",
+    "price_usd": "$53.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-120-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
   },
   {
     "country": "Japonsko",
@@ -46260,326 +46240,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Rakousko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Belgie",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Chorvatsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Kypr",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Česko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Dánsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Estonsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Finsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Francie",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Německo",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Řecko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Maďarsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Island",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Irsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Itálie",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lotyšsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lichtenštejnsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Litva",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Lucembursko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Malta",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Nizozemsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Norsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Polsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Portugalsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Rumunsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Slovensko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Slovinsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Španělsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Švédsko",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Spojené království",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Vatikán",
-    "data": "60 GB",
-    "validity": "30",
-    "price_usd": "$39.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "50+"
-  },
-  {
     "country": "Japonsko",
     "data": "35 GB",
     "validity": "60",
@@ -46718,6 +46378,326 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/sparks-uk-premium-7-gb-esim#esimmonster",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Rakousko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Belgie",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Bulharsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Chorvatsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Kypr",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Česko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Dánsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Estonsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Finsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Francie",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Německo",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Řecko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Maďarsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Island",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Irsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Itálie",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lotyšsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lichtenštejnsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Litva",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Lucembursko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Malta",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Norsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Polsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Rumunsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Slovensko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Slovinsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Španělsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Švédsko",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Spojené království",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Vatikán",
+    "data": "60 GB",
+    "validity": "30",
+    "price_usd": "$41.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-60-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "50+"
   },
   {
     "country": "Řecko",
@@ -65440,326 +65420,6 @@
     "dataRange": "11–20"
   },
   {
-    "country": "Rakousko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Belgie",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Bulharsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Chorvatsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Kypr",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Česko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Dánsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Estonsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Finsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Francie",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Německo",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Řecko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Maďarsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Island",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Irsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Itálie",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Lotyšsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Lichtenštejnsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Litva",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Lucembursko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Malta",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Nizozemsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Norsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Polsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Portugalsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Rumunsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Slovensko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Slovinsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Španělsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Švédsko",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Spojené království",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Vatikán",
-    "data": "20 GB",
-    "validity": "15",
-    "price_usd": "$24.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Spojené arabské emiráty",
     "data": "20 GB",
     "validity": "30",
@@ -66408,6 +66068,326 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/nextlink-mena-10-gb-esim#esimmonster",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Rakousko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Belgie",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Bulharsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Chorvatsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Kypr",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Česko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Dánsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Estonsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Finsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Francie",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Německo",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Řecko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Maďarsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Island",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Irsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Itálie",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Lotyšsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Lichtenštejnsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Litva",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Lucembursko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Malta",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Nizozemsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Norsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Polsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Portugalsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Rumunsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Slovensko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Slovinsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Španělsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Švédsko",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené království",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vatikán",
+    "data": "20 GB",
+    "validity": "15",
+    "price_usd": "$25.99",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/bouygues-eu-20-gb-unlimited-calls-esim#esimmonster",
+    "dataRange": "11–20"
   },
   {
     "country": "Saúdská Arábie",
@@ -71848,66 +71828,6 @@
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-dominican-republic-5-gb-esim#esimmonster",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Austrálie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Kanada",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Hongkong – ZAO Číny",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Nový Zéland",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Spojené království",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$23.49",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/3-us-ca-uk-au-nz-10-gb-esim#esimmonster",
-    "dataRange": "6–10"
   },
   {
     "country": "Jordánsko",
@@ -93770,16 +93690,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Vietnam",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$15.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Česko",
     "data": "1 GB",
     "validity": "3",
@@ -93938,16 +93848,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Vietnam",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$56.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
   },
   {
     "country": "Tunisko",
@@ -94120,6 +94020,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Thajsko",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$17.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Faerské ostrovy",
     "data": "100 GB",
     "validity": "60",
@@ -94268,16 +94178,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$33.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Litva",
@@ -95390,16 +95290,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Macao – ZAO Číny",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$49.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
     "country": "Uganda",
     "data": "50 GB",
     "validity": "45",
@@ -95768,6 +95658,16 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Vietnam",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$19.49",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
   },
   {
     "country": "Arménie",
@@ -97310,6 +97210,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Indie",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$9.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Filipíny",
     "data": "10 GB",
     "validity": "30",
@@ -97744,16 +97654,6 @@
     "data": "1 GB",
     "validity": "3",
     "price_usd": "$8.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$3.89",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -99178,16 +99078,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$35.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
   },
   {
     "country": "Afrika",
@@ -103500,6 +103390,16 @@
     "dataRange": "21–50"
   },
   {
+    "country": "Macao – ZAO Číny",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$24.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
     "country": "Nikaragua",
     "data": "50 GB",
     "validity": "45",
@@ -105450,6 +105350,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Indie",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Etiopie",
     "data": "1 GB",
     "validity": "3",
@@ -105613,9 +105523,49 @@
     "country": "Indie",
     "data": "1 GB",
     "validity": "3",
-    "price_usd": "$16.99",
+    "price_usd": "$5.89",
     "provider": "Global YO",
     "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$16.99",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Vietnam",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$4.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Vietnam",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$28.49",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
+  },
+  {
+    "country": "Thajsko",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$32.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
   },
@@ -105650,8 +105600,8 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Macao – ZAO Číny",
-    "data": "3 GB",
+    "country": "Indie",
+    "data": "5 GB",
     "validity": "15",
     "price_usd": "$6.99",
     "provider": "Global YO",
@@ -105660,14 +105610,44 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Macao – ZAO Číny",
-    "data": "5 GB",
-    "validity": "15",
+    "country": "Indie",
+    "data": "10 GB",
+    "validity": "30",
     "price_usd": "$9.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Indie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$14.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Indie",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$24.49",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Indie",
+    "data": "100 GB",
+    "validity": "60",
+    "price_usd": "$35.49",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "50+"
   },
   {
     "country": "Thajsko",
@@ -105698,76 +105678,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$32.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$2.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Thajsko",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$4.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Thajsko",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$6.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Thajsko",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$9.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Thajsko",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$14.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Thajsko",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$24.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Vietnam",
@@ -105808,46 +105718,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Vietnam",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Vietnam",
-    "data": "5 GB",
-    "validity": "15",
-    "price_usd": "$11.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Vietnam",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$23.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
-    "country": "Vietnam",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$38.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
   },
   {
     "country": "Botswana",
@@ -107240,6 +107110,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Thajsko",
+    "data": "50 GB",
+    "validity": "45",
+    "price_usd": "$12.49",
+    "provider": "Global YO",
+    "validityRange": "31–90",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "21–50"
+  },
+  {
     "country": "N1",
     "data": "20 GB",
     "validity": "30",
@@ -107334,16 +107214,6 @@
     "data": "1 GB",
     "validity": "3",
     "price_usd": "$5.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Vietnam",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$4.89",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -107624,6 +107494,16 @@
     "data": "1 GB",
     "validity": "3",
     "price_usd": "$5.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Thajsko",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$2.89",
     "provider": "Global YO",
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -108210,16 +108090,6 @@
     "dataRange": "50+"
   },
   {
-    "country": "Indie",
-    "data": "1 GB",
-    "validity": "3",
-    "price_usd": "$5.89",
-    "provider": "Global YO",
-    "validityRange": "1–7",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "≤1"
-  },
-  {
     "country": "Spojené arabské emiráty",
     "data": "100 GB",
     "validity": "60",
@@ -108244,16 +108114,6 @@
     "data": "100 GB",
     "validity": "60",
     "price_usd": "$143.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "50+"
-  },
-  {
-    "country": "Indie",
-    "data": "100 GB",
-    "validity": "60",
-    "price_usd": "$70.99",
     "provider": "Global YO",
     "validityRange": "31–90",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -110370,16 +110230,6 @@
     "dataRange": "21–50"
   },
   {
-    "country": "Indie",
-    "data": "50 GB",
-    "validity": "45",
-    "price_usd": "$48.99",
-    "provider": "Global YO",
-    "validityRange": "31–90",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "21–50"
-  },
-  {
     "country": "Mauricius",
     "data": "20 GB",
     "validity": "30",
@@ -110560,20 +110410,20 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Indie",
-    "data": "3 GB",
+    "country": "Vietnam",
+    "data": "5 GB",
     "validity": "15",
-    "price_usd": "$9.99",
+    "price_usd": "$5.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
   },
   {
-    "country": "Indie",
+    "country": "Thajsko",
     "data": "5 GB",
     "validity": "15",
-    "price_usd": "$13.99",
+    "price_usd": "$3.49",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -111000,6 +110850,26 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Vietnam",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Thajsko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$4.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Gibraltar",
     "data": "5 GB",
     "validity": "15",
@@ -111098,16 +110968,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Indie",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$19.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
   },
   {
     "country": "Ekvádor",
@@ -111340,6 +111200,26 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Vietnam",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$11.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Thajsko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$7.49",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Nový Zéland",
     "data": "10 GB",
     "validity": "30",
@@ -111348,16 +111228,6 @@
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "6–10"
-  },
-  {
-    "country": "Indie",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$29.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
   },
   {
     "country": "Indonésie",
@@ -111444,16 +111314,6 @@
     "data": "10 GB",
     "validity": "30",
     "price_usd": "$8.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Macao – ZAO Číny",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$13.99",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -111760,16 +111620,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Macao – ZAO Číny",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$20.99",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "11–20"
-  },
-  {
     "country": "Jižní Korea",
     "data": "20 GB",
     "validity": "30",
@@ -111908,6 +111758,76 @@
     "validityRange": "1–7",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
     "dataRange": "≤1"
+  },
+  {
+    "country": "Thajsko",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$4.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "1 GB",
+    "validity": "3",
+    "price_usd": "$3.89",
+    "provider": "Global YO",
+    "validityRange": "1–7",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$6.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "5 GB",
+    "validity": "15",
+    "price_usd": "$4.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$6.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Macao – ZAO Číny",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$10.49",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Vietnam",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$7.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
   },
   {
     "country": "Afghánistán",
@@ -217390,6 +217310,246 @@
     "dataRange": ""
   },
   {
+    "country": "Austrálie",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=61f02cab1c556dc39297b929&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Austrálie",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$8.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=61f02cd11c556d9f3697b92c&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=61f02cdb1c556d7bc597b92f&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$18.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=61f02ce41c556d69d797b932&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Austrálie",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$6.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=6425b9b81432319dab539c6d&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Austrálie",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$30.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=6425b9b931737fc47d225fee&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "7",
+    "price_usd": "$26.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db8332a&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "3",
+    "price_usd": "$11.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db8332e&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "30",
+    "price_usd": "$66.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db833a6&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "15",
+    "price_usd": "$45.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db833aa&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "5",
+    "price_usd": "$18.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db833b0&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Austrálie",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$32.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/australia-esim?plan_id=69810f6afaaf64d65db833b4&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=61f05d911c556df57b97bc80&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$10.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=61f05da51c556d7f1d97bc83&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=61f05dac1c556dffc997bc86&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$26.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=61f05db31c556da44e97bc89&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$7.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=6425b41b143231ca0d539c62&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$38.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=6425b41c31737f3025225fe6&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "30",
+    "price_usd": "$72.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d973585126c6&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d973585126cb&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "5",
+    "price_usd": "$19.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d97358512714&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "7",
+    "price_usd": "$27.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d97358512718&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "15",
+    "price_usd": "$49.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d9735851271c&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Nový Zéland",
+    "data": "Unlimited GB",
+    "validity": "3",
+    "price_usd": "$11.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/new-zealand-esim?plan_id=69810f9dffc7d97358512731&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
     "country": "Anguilla",
     "data": "1 GB",
     "validity": "7",
@@ -221048,6 +221208,136 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/venezuela-esim?plan_id=645d341c1837b59e030065e6&affid=1176&oid=9",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Mexiko",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$5.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=61f056ad1c556dae6a97bc33&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Mexiko",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$12.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=61f056bc1c556ded2097bc36&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mexiko",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=61f056c71c556d802897bc39&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mexiko",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$25.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=61f056d71c556d706997bc3c&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Mexiko",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$11.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=643dded1de0ee81ad2df77ed&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Mexiko",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$46.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=645d341c1837b59e03006538&affid=1176&oid=9",
+    "dataRange": "11–20"
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "10",
+    "price_usd": "$35.00",
+    "provider": "aloSIM",
+    "validityRange": "8–14",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=6751ba599b4e0c678257c7d3&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "15",
+    "price_usd": "$48.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851aa&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "3",
+    "price_usd": "$12.50",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851ae&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "30",
+    "price_usd": "$69.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851b2&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "20",
+    "price_usd": "$59.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851b7&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "7",
+    "price_usd": "$25.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851bd&affid=1176&oid=9",
+    "dataRange": ""
+  },
+  {
+    "country": "Mexiko",
+    "data": "Unlimited GB",
+    "validity": "5",
+    "price_usd": "$19.00",
+    "provider": "aloSIM",
+    "validityRange": "1–7",
+    "affiliate": "https://alosim.com/mexico-esim?plan_id=69810f98faaf64d65db851d1&affid=1176&oid=9",
+    "dataRange": ""
   },
   {
     "country": "Spojené království",
@@ -301250,16 +301540,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "2 GB",
-    "validity": "7",
-    "price_usd": "$38.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Polsko",
     "data": "50 GB",
     "validity": "30",
@@ -301700,16 +301980,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Gibraltar",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$9.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Faerské ostrovy",
     "data": "3 GB",
     "validity": "30",
@@ -301728,6 +301998,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/réunion-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
+  },
+  {
+    "country": "Gibraltar",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$35.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
   },
   {
     "country": "Čína",
@@ -302100,6 +302380,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gibraltar",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$11.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Švédsko",
     "data": "5 GB",
     "validity": "30",
@@ -302258,6 +302548,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/jamaica-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Gibraltar",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Španělsko",
@@ -302678,16 +302978,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/ukraine-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Gibraltar",
-    "data": "50 GB",
-    "validity": "30",
-    "price_usd": "$45.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "21–50"
   },
   {
     "country": "Martinik",
@@ -303327,6 +303617,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/new-zealand-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "2 GB",
+    "validity": "5",
+    "price_usd": "$25.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -306100,16 +306400,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "2 GB",
-    "validity": "3",
-    "price_usd": "$18.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Izrael",
     "data": "50 GB",
     "validity": "30",
@@ -306280,6 +306570,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Gibraltar",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.50",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
     "country": "Spojené státy",
     "data": "3 GB",
     "validity": "30",
@@ -306310,16 +306610,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Kambodža",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$15.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/cambodia-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Japonsko",
     "data": "3 GB",
     "validity": "30",
@@ -306327,6 +306617,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/japan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Kambodža",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$15.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/cambodia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -306628,16 +306928,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/norway-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Gibraltar",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$4.50",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Omán",
@@ -306960,16 +307250,6 @@
     "dataRange": "≤1"
   },
   {
-    "country": "Gibraltar",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$12.50",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Malajsie",
     "data": "1 GB",
     "validity": "7",
@@ -307290,16 +307570,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "2 GB",
-    "validity": "10",
-    "price_usd": "$48.00",
-    "provider": "Nomad",
-    "validityRange": "8–14",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Východní Timor",
     "data": "5 GB",
     "validity": "30",
@@ -307427,16 +307697,6 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/puerto-rico-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Gibraltar",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
   },
   {
@@ -308058,6 +308318,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/montenegro-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Gibraltar",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$25.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
   },
   {
     "country": "Lichtenštejnsko",
@@ -309248,16 +309518,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/taiwan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
-  },
-  {
-    "country": "Gibraltar",
-    "data": "20 GB",
-    "validity": "30",
-    "price_usd": "$20.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/gibraltar-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "11–20"
   },
   {
     "country": "Albánie",
@@ -311240,16 +311500,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Spojené arabské emiráty",
-    "data": "2 GB",
-    "validity": "5",
-    "price_usd": "$28.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Nikaragua",
     "data": "5 GB",
     "validity": "30",
@@ -311607,6 +311857,16 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/thailand-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "2 GB",
+    "validity": "3",
+    "price_usd": "$15.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -312800,6 +313060,16 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Spojené arabské emiráty",
+    "data": "2 GB",
+    "validity": "10",
+    "price_usd": "$45.00",
+    "provider": "Nomad",
+    "validityRange": "8–14",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Madagaskar",
     "data": "1 GB",
     "validity": "7",
@@ -312988,6 +313258,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/united-kingdom-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené arabské emiráty",
+    "data": "2 GB",
+    "validity": "7",
+    "price_usd": "$35.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/united-arab-emirates-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Lesotho",
@@ -350028,6 +350308,26 @@
     "validityRange": "15–30",
     "affiliate": "https://etravelsim.com/products/kuwait-esim?variant=43260945268917",
     "dataRange": "Neomezená"
+  },
+  {
+    "country": "Francie",
+    "data": "30 GB",
+    "validity": "7",
+    "price_usd": "$15.99",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/france-esim?variant=52511684624565",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Evropa",
+    "data": "30 GB",
+    "validity": "7",
+    "price_usd": "$18.50",
+    "provider": "eTravelSim",
+    "validityRange": "1–7",
+    "affiliate": "https://etravelsim.com/products/europe-esim?variant=52511700484277",
+    "dataRange": "21–50"
   },
   {
     "country": "Afghánistán",
