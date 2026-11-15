@@ -102750,6 +102750,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Saúdská Arábie",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$12.49",
+    "provider": "Mobimatter",
+    "validityRange": "15–30",
+    "affiliate": "https://mobimatter.com/travel-esim/roamvault-saudi-arabia-5-gb-esim#esimmonster",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Maroko",
     "data": "10 GB",
     "validity": "30",
@@ -103107,16 +103117,6 @@
     "provider": "Mobimatter",
     "validityRange": "15–30",
     "affiliate": "https://mobimatter.com/travel-esim/esimgo-dubai-5-gb-esim#esimmonster",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Saúdská Arábie",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$12.99",
-    "provider": "Mobimatter",
-    "validityRange": "15–30",
-    "affiliate": "https://mobimatter.com/travel-esim/roamvault-saudi-arabia-5-gb-esim#esimmonster",
     "dataRange": "2–5"
   },
   {
@@ -146931,16 +146931,6 @@
   },
   {
     "country": "Paraguay",
-    "data": "3 GB",
-    "validity": "15",
-    "price_usd": "$7.19",
-    "provider": "Global YO",
-    "validityRange": "15–30",
-    "affiliate": "https://globalyo.pxf.io/AWJojD",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Paraguay",
     "data": "100 GB",
     "validity": "60",
     "price_usd": "$77.99",
@@ -147034,6 +147024,16 @@
     "data": "3 GB",
     "validity": "15",
     "price_usd": "$52.99",
+    "provider": "Global YO",
+    "validityRange": "15–30",
+    "affiliate": "https://globalyo.pxf.io/AWJojD",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Paraguay",
+    "data": "3 GB",
+    "validity": "15",
+    "price_usd": "$0.00",
     "provider": "Global YO",
     "validityRange": "15–30",
     "affiliate": "https://globalyo.pxf.io/AWJojD",
@@ -250171,16 +250171,6 @@
   },
   {
     "country": "Nikaragua",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$13.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nikaragua",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$56.50",
@@ -250188,6 +250178,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341c94a000d329e26ccb&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Nikaragua",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$13.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
+    "dataRange": "2–5"
   },
   {
     "country": "Nikaragua",
@@ -270951,16 +270951,6 @@
   },
   {
     "country": "Nikaragua",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$13.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nikaragua",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$56.50",
@@ -270968,6 +270958,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341c94a000d329e26ccb&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Nikaragua",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$13.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
+    "dataRange": "2–5"
   },
   {
     "country": "Nikaragua",
@@ -277931,16 +277931,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$21.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$33.50",
@@ -277948,6 +277938,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$21.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
+    "dataRange": "6–10"
   },
   {
     "country": "Vatikán",
@@ -301981,16 +301981,6 @@
   },
   {
     "country": "Nikaragua",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$13.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Nikaragua",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$56.50",
@@ -301998,6 +301988,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341c94a000d329e26ccb&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Nikaragua",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$13.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/nicaragua-esim?plan_id=645d341cda9d15e55322c586&affid=1176&oid=9",
+    "dataRange": "2–5"
   },
   {
     "country": "Nikaragua",
@@ -310920,126 +310920,6 @@
     "dataRange": "6–10"
   },
   {
-    "country": "Středoafrická republika",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$9.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Středoafrická republika",
-    "data": "2 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fec4&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Středoafrická republika",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$24.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02feef&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Středoafrická republika",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$38.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02ff1a&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Etiopie",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$12.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Etiopie",
-    "data": "2 GB",
-    "validity": "15",
-    "price_usd": "$23.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fecd&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Etiopie",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$33.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fef8&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Guernsey",
-    "data": "1 GB",
-    "validity": "30",
-    "price_usd": "$5.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fea4&affid=1176&oid=9",
-    "dataRange": "≤1"
-  },
-  {
-    "country": "Guernsey",
-    "data": "2 GB",
-    "validity": "30",
-    "price_usd": "$9.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fecf&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Guernsey",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$12.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fefa&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Guernsey",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$17.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02ff25&affid=1176&oid=9",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Guernsey",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$30.00",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02ff50&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
     "country": "Mauritánie",
     "data": "1 GB",
     "validity": "7",
@@ -311200,6 +311080,56 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Guernsey",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$5.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fea4&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Guernsey",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fecf&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Guernsey",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$12.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02fefa&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Guernsey",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02ff25&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Guernsey",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$30.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/guernsey-esim?plan_id=66e31906bc98f8528f02ff50&affid=1176&oid=9",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Vatikán",
     "data": "1 GB",
     "validity": "30",
@@ -311241,16 +311171,6 @@
   },
   {
     "country": "Vatikán",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$21.50",
-    "provider": "aloSIM",
-    "validityRange": "15–30",
-    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
-    "dataRange": "6–10"
-  },
-  {
-    "country": "Vatikán",
     "data": "20 GB",
     "validity": "30",
     "price_usd": "$33.50",
@@ -311258,6 +311178,16 @@
     "validityRange": "15–30",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff94&affid=1176&oid=9",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Vatikán",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$21.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/vatican-city-esim?plan_id=66e31906bc98f8528f02ff69&affid=1176&oid=9",
+    "dataRange": "6–10"
   },
   {
     "country": "Vatikán",
@@ -311398,6 +311328,76 @@
     "validityRange": "1–7",
     "affiliate": "https://alosim.com/vatican-city-esim?plan_id=6af5d9e20742a279452b6f9b&affid=1176&oid=9",
     "dataRange": "6–10"
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "2 GB",
+    "validity": "30",
+    "price_usd": "$17.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fec4&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$9.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02fe99&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$24.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02feef&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Středoafrická republika",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$38.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/central-african-republic-esim?plan_id=66e31906bc98f8528f02ff1a&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Etiopie",
+    "data": "1 GB",
+    "validity": "30",
+    "price_usd": "$12.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fea2&affid=1176&oid=9",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Etiopie",
+    "data": "2 GB",
+    "validity": "15",
+    "price_usd": "$23.00",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fecd&affid=1176&oid=9",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Etiopie",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$33.50",
+    "provider": "aloSIM",
+    "validityRange": "15–30",
+    "affiliate": "https://alosim.com/ethiopia-esim?plan_id=66e31906bc98f8528f02fef8&affid=1176&oid=9",
+    "dataRange": "2–5"
   },
   {
     "country": "Evropa",
@@ -402380,6 +402380,16 @@
     "dataRange": "≤1"
   },
   {
+    "country": "Spojené státy",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "21–50"
+  },
+  {
     "country": "San Marino",
     "data": "10 GB",
     "validity": "30",
@@ -402428,16 +402438,6 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/uzbekistan-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "10 GB",
-    "validity": "30",
-    "price_usd": "$25.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "6–10"
   },
   {
     "country": "Kazachstán",
@@ -403727,16 +403727,6 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/dominican-republic-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "5 GB",
-    "validity": "30",
-    "price_usd": "$16.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -407000,6 +406990,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Hawaii (USA)",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$16.80",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Paraguay",
     "data": "3 GB",
     "validity": "30",
@@ -407107,6 +407107,16 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/tunisia-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Hawaii (USA)",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "≤1"
   },
   {
@@ -407237,6 +407247,16 @@
     "provider": "Nomad",
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/netherlands-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.20",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
   },
   {
@@ -408860,6 +408880,26 @@
     "dataRange": "6–10"
   },
   {
+    "country": "Hawaii (USA)",
+    "data": "50 GB",
+    "validity": "30",
+    "price_usd": "$24.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "21–50"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "20 GB",
+    "validity": "30",
+    "price_usd": "$16.80",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "11–20"
+  },
+  {
     "country": "Uganda",
     "data": "20 GB",
     "validity": "30",
@@ -410458,6 +410498,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/uruguay-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$4.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Malajsie",
@@ -412660,16 +412710,6 @@
     "dataRange": "2–5"
   },
   {
-    "country": "Spojené státy",
-    "data": "3 GB",
-    "validity": "30",
-    "price_usd": "$10.00",
-    "provider": "Nomad",
-    "validityRange": "15–30",
-    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "2–5"
-  },
-  {
     "country": "Mauritánie",
     "data": "3 GB",
     "validity": "30",
@@ -412717,6 +412757,26 @@
     "provider": "Nomad",
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/south-sudan-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "1 GB",
+    "validity": "7",
+    "price_usd": "$4.00",
+    "provider": "Nomad",
+    "validityRange": "1–7",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "≤1"
+  },
+  {
+    "country": "Spojené státy",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.40",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "6–10"
   },
   {
@@ -413450,6 +413510,16 @@
     "dataRange": "2–5"
   },
   {
+    "country": "Hawaii (USA)",
+    "data": "10 GB",
+    "validity": "30",
+    "price_usd": "$10.40",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "6–10"
+  },
+  {
     "country": "Chorvatsko",
     "data": "50 GB",
     "validity": "30",
@@ -413628,6 +413698,16 @@
     "validityRange": "15–30",
     "affiliate": "https://www.nomadesim.com/tunisia-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "11–20"
+  },
+  {
+    "country": "Hawaii (USA)",
+    "data": "3 GB",
+    "validity": "30",
+    "price_usd": "$4.00",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
   },
   {
     "country": "Chorvatsko",
@@ -414420,6 +414500,16 @@
     "dataRange": "11–20"
   },
   {
+    "country": "Hawaii (USA)",
+    "data": "5 GB",
+    "validity": "30",
+    "price_usd": "$7.20",
+    "provider": "Nomad",
+    "validityRange": "15–30",
+    "affiliate": "https://www.nomadesim.com/hawaii-eSIM?utm_source=esimmonster&utm_medium=web",
+    "dataRange": "2–5"
+  },
+  {
     "country": "Rusko",
     "data": "2 GB",
     "validity": "3",
@@ -414788,16 +414878,6 @@
     "validityRange": "1–7",
     "affiliate": "https://www.nomadesim.com/nepal-eSIM?utm_source=esimmonster&utm_medium=web",
     "dataRange": "2–5"
-  },
-  {
-    "country": "Spojené státy",
-    "data": "1 GB",
-    "validity": "7",
-    "price_usd": "$5.00",
-    "provider": "Nomad",
-    "validityRange": "1–7",
-    "affiliate": "https://www.nomadesim.com/united-states-eSIM?utm_source=esimmonster&utm_medium=web",
-    "dataRange": "≤1"
   },
   {
     "country": "Gruzie",
